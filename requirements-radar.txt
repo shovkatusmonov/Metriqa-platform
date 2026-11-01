@@ -1,0 +1,6 @@
+# METRIQA RADAR - direct runtime dependencies
+google-genai==2.20.0
+pyTelegramBotAPI==4.36.1
+python-dotenv==1.2.3
+playwright==1.62.0
+requests==2.34.2
