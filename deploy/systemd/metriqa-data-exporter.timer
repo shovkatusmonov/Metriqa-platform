@@ -1,0 +1,11 @@
+[Unit]
+Description=Run METRIQA read-only market data export hourly
+
+[Timer]
+OnCalendar=hourly
+Persistent=true
+RandomizedDelaySec=90
+Unit=metriqa-data-exporter.service
+
+[Install]
+WantedBy=timers.target
