@@ -1,0 +1,172 @@
+{
+  "product": "METRIQA Data Exporter",
+  "schema_version": 1,
+  "generated_at_utc": "2026-11-13T04:01:06+00:00",
+  "timezone": "Asia/Tashkent",
+  "source_mode": "SQLite read-only (mode=ro; query_only=ON)",
+  "lookback_days": {
+    "ohlcv": 90,
+    "otc_trades": 30
+  },
+  "sources": {
+    "radar.instruments": {
+      "status": "ok",
+      "rows": 898,
+      "file": "market_data/radar/instruments.csv"
+    },
+    "radar.issuers": {
+      "status": "ok",
+      "rows": 641,
+      "file": "market_data/radar/issuers.csv"
+    },
+    "radar.ohlcv": {
+      "status": "ok",
+      "rows": 28961,
+      "file": "market_data/radar/ohlcv.csv"
+    },
+    "radar.market_snapshots": {
+      "status": "ok",
+      "rows": 0,
+      "file": "market_data/radar/market_snapshots.csv"
+    },
+    "radar.orderbook_snapshots": {
+      "status": "ok",
+      "rows": 0,
+      "file": "market_data/radar/orderbook_snapshots.csv"
+    },
+    "radar.investor_structure": {
+      "status": "ok",
+      "rows": 286255,
+      "file": "market_data/radar/investor_structure.csv"
+    },
+    "radar.dividends": {
+      "status": "ok",
+      "rows": 4679,
+      "file": "market_data/radar/dividends.csv"
+    },
+    "radar.facts": {
+      "status": "ok",
+      "rows": 36103,
+      "file": "market_data/radar/facts.csv"
+    },
+    "radar.financial_indicators": {
+      "status": "ok",
+      "rows": 183583,
+      "file": "market_data/radar/financial_indicators.csv"
+    },
+    "radar.balance_sheet": {
+      "status": "ok",
+      "rows": 91709,
+      "file": "market_data/radar/balance_sheet.csv"
+    },
+    "radar.financial_results": {
+      "status": "ok",
+      "rows": 89766,
+      "file": "market_data/radar/financial_results.csv"
+    },
+    "radar.otc_trades": {
+      "status": "ok",
+      "rows": 0,
+      "file": "market_data/radar/otc_trades.csv"
+    },
+    "radar.uzse_mapping": {
+      "status": "ok",
+      "rows": 895,
+      "file": "market_data/radar/uzse_mapping.csv"
+    },
+    "signals.ai_signals_history": {
+      "status": "ok",
+      "rows": 50,
+      "file": "market_data/signals/ai_signals_history.csv"
+    },
+    "signals.ai_signals_archive": {
+      "status": "ok",
+      "rows": 53,
+      "file": "market_data/signals/ai_signals_archive.csv"
+    },
+    "signals.high_yield_catalyst_shadow": {
+      "status": "ok",
+      "rows": 199,
+      "file": "market_data/signals/high_yield_catalyst_shadow.csv"
+    },
+    "market_cache": {
+      "status": "ok",
+      "rows": 1666
+    }
+  },
+  "files": {
+    "market_data/market/market_snapshot.json": {
+      "bytes": 435662,
+      "sha256": "8d170b8af75430546a1b0bea8e354ff152da5f663f798135823727823a59727d"
+    },
+    "market_data/radar/balance_sheet.csv": {
+      "bytes": 5638348,
+      "sha256": "ed513a57147125a1e2204228cc2bb459411d02b7f525bbd99e6d7c3d48f4f465"
+    },
+    "market_data/radar/dividends.csv": {
+      "bytes": 912415,
+      "sha256": "56da2e109c77403afd1208c66d1b685b1cb7f95f464b8ad36c65b1b1216e0d99"
+    },
+    "market_data/radar/facts.csv": {
+      "bytes": 19851547,
+      "sha256": "a5138e38b165f1bc5cace3f80660abd8613d49e3c2914492002debcd5acb2267"
+    },
+    "market_data/radar/financial_indicators.csv": {
+      "bytes": 12086878,
+      "sha256": "dd6647dd4a3ac7e7846f49aad9f92bd8d088ba107b643feaaeb67ee81146cee4"
+    },
+    "market_data/radar/financial_results.csv": {
+      "bytes": 6536548,
+      "sha256": "25f2e21bbd22381de1fcd03fe6793194f2c57f6bf7e575d0609733708567a74c"
+    },
+    "market_data/radar/instruments.csv": {
+      "bytes": 81039,
+      "sha256": "49948ba18c1cce7b8ad46641690ed0be87b6b5d5b99f1bd81b238f4f3ceb7a0c"
+    },
+    "market_data/radar/investor_structure.csv": {
+      "bytes": 21752594,
+      "sha256": "d0b37ff3d7cb03cf3e3585798bb9ffb34d4cef19799eb73de806f1bea782ca62"
+    },
+    "market_data/radar/issuers.csv": {
+      "bytes": 42399,
+      "sha256": "67e44160584471f30a5be3d920f3ebce8dcb31eb352e72f09e3f4c9cba36bca8"
+    },
+    "market_data/radar/market_snapshots.csv": {
+      "bytes": 117,
+      "sha256": "c340e288637e0c8678cb29296b9b4e04938fe748ff6c9fa05154d51e98459c76"
+    },
+    "market_data/radar/ohlcv.csv": {
+      "bytes": 2581306,
+      "sha256": "21c261a8fdf8c8909a9fab48a7295d567fbe52228f8eed00a6dd9937f8c147c3"
+    },
+    "market_data/radar/orderbook_snapshots.csv": {
+      "bytes": 129,
+      "sha256": "ef4f66924d5150b6d2c072a2f8447f34eb5ad7c67955e2b723e0602500feba40"
+    },
+    "market_data/radar/otc_trades.csv": {
+      "bytes": 112,
+      "sha256": "3af2c4f06adb18deb0031ce36c10eed3c2ec31ab95125397b32177bf1da7f2ee"
+    },
+    "market_data/radar/uzse_mapping.csv": {
+      "bytes": 76031,
+      "sha256": "54c0a95d2587691efd179bc1b36943e2a645b161420a43230a29296e0ed084bd"
+    },
+    "market_data/signals/ai_signals_archive.csv": {
+      "bytes": 8598,
+      "sha256": "0e264a2f5544d3ac13f5aedb3a811fc5fd4030a9da4991b45a7b4fe227255827"
+    },
+    "market_data/signals/ai_signals_history.csv": {
+      "bytes": 8084,
+      "sha256": "3a436454fd424750fa09376245ce3b2916305a5ccd1bfec47d00ae0e614cd7d5"
+    },
+    "market_data/signals/high_yield_catalyst_shadow.csv": {
+      "bytes": 39358,
+      "sha256": "5dec6556714cc50189072a476311711af7bb85e46a0efcfd029dc7c8b3a70ef9"
+    }
+  },
+  "notes": [
+    "This is an analytical data snapshot, not a live trading feed.",
+    "OHLCV and OTC exports are rolling windows; older history requires a separately approved bootstrap.",
+    "Raw API payloads, tokens, credentials, user/subscriber data and runtime logs are excluded."
+  ]
+}

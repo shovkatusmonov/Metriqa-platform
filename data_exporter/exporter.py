@@ -91,15 +91,29 @@ def table_exists(conn: sqlite3.Connection, table: str) -> bool:
 def export_table(conn: sqlite3.Connection, table: str, target: Path, filter_spec):
     if not table_exists(conn, table):
         return {"status": "missing_table", "rows": 0}
-    # Never export raw payload or potentially identifying free-form fields.
-    denied_columns = {
-        "raw_data", "raw_api_response", "response_json", "request_params",
-        "extracted_text", "document_text", "ocr_text", "payload",
+    # Strict per-table column allow-list: unknown columns are never exported.
+    allowed = {
+        "instruments": "stock_id ticker issue_code issue_name issuer_id market_code active preferred category_id listing_date nominal_price bond_active bond_expiry_date coupon_rate duration created_at updated_at",
+        "issuers": "issuer_id name created_at updated_at",
+        "ohlcv": "id stock_id open high low close volume candle_time format_time source turnover",
+        "market_snapshots": "id stock_id last_price opening high low volume trade_amount trade_count growth market_cap observed_at created_at",
+        "orderbook_snapshots": "id stock_id side price volume order_count total order_volume percentage market_make position_no yield observed_at created_at",
+        "investor_structure": "id stock_id date category shareholder_count ownership_percent created_at",
+        "dividends": "id dividend_id stock_id fact_id active div_per_share yield_to_book yield_to_market market_price date_solution start_date parsect_date end_date pub_date added_on updated_on openinfo_id object_id created_at",
+        "facts": "id fact_id issuer_id pub_date approved_date fact_number openinfo_id object_id added_on updated_on fact_title fact_title_uz fact_title_ru fact_title_en cat_id created_at",
+        "financial_indicators": "id stock_id indicator year quarter value source created_at",
+        "balance_sheet": "id stock_id metric year quarter value created_at",
+        "financial_results": "id stock_id metric year quarter value type created_at",
+        "otc_trades": "id market_type section trade_time trade_date isin company_name qty price volume stock_id created_at dup_idx",
+        "uzse_mapping": "stock_id ticker uzse_id isin company_name updated_at",
+        "ai_signals_history": "id signal_date ticker category entry_price target_price stop_loss current_price current_max_pnl status closed_date closed_pnl signal_count tp1_pct tp2_pct target_price_2 q_status q_sl q_tp1 q_tp2 q_rr q_version q_gate",
+        "ai_signals_archive": "id signal_date ticker category entry_price target_price stop_loss current_price current_max_pnl status closed_date closed_pnl signal_count tp1_pct tp2_pct target_price_2 q_status q_sl q_tp1 q_tp2 q_rr q_version q_gate",
+        "high_yield_catalyst_shadow": "id event_id openinfo_id ticker stock_id company_name event_type announcement_date entry_date entry_price div_per_share calculated_yield yield_tier t0_volume t0_turnover liquidity_status ret_1d_gross ret_1d_net ret_3d_gross ret_3d_net ret_5d_gross ret_5d_net ret_10d_gross ret_10d_net status dynamic_tier pt_freq_20d pt_med_to_20d days_since_last_trade",
     }
-    columns = [
+    actual_columns = {
         r["name"] for r in conn.execute(f'PRAGMA table_info("{table}")')
-        if r["name"].lower() not in denied_columns
-    ]
+    }
+    columns = [c for c in allowed.get(table, "").split() if c in actual_columns]
     if not columns:
         return {"status": "empty_schema", "rows": 0}
     quoted_columns = ", ".join(f'"{c}"' for c in columns)
@@ -229,7 +243,16 @@ def main():
         current = git("branch", "--show-current").stdout.strip()
         if current != BRANCH:
             raise RuntimeError(f"Wrong Git branch: {current!r}; expected {BRANCH!r}")
+        if os.environ.get("METRIQA_DRY_RUN") == "1":
+            print("DRY RUN: files generated locally; no commit or push.")
+            print(f"Manifest: {DATA_DIR / 'manifest.json'}")
+            return 0
+
         git("add", "market_data")
+        staged = git("diff", "--cached", "--name-only").stdout.splitlines()
+        unsafe = [name for name in staged if name != "data_exporter/exporter.py" and not name.startswith("market_data/")]
+        if unsafe:
+            raise RuntimeError(f"Unsafe staged files outside market_data/: {unsafe}")
     except subprocess.CalledProcessError as exc:
         raise RuntimeError((exc.stderr or str(exc))[:1000]) from exc
 
@@ -249,8 +272,8 @@ def main():
         return 0
     git("config", "user.name", "METRIQA Data Exporter")
     git("config", "user.email", "metriqa-exporter@users.noreply.github.com")
-    git("commit", "-m", "data: hourly read-only market snapshot")
-    git("push", "origin", BRANCH)
+    git("commit", "--amend", "--no-edit")
+    git("push", "--force-with-lease", "origin", BRANCH)
     print(f"Export completed and pushed at {started}")
     return 0
 
