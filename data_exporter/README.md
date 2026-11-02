@@ -1,11 +1,11 @@
 # METRIQA Data Exporter (read-only)
 
-This component exports analytical snapshots from the existing METRIQA/JETT SQLite databases to the private GitHub repository. It is intentionally isolated from the production bot.
+This component exports analytical snapshots from the existing METRIQA production SQLite databases to the private GitHub repository. It is intentionally isolated from the production bot.
 
 ## Safety invariants
 
 - SQLite connections use `mode=ro` and `PRAGMA query_only=ON`.
-- No imports from `radar/`; no API calls to JETT; no production bot callbacks.
+- No imports from `radar/`; no calls to external market APIs; no production bot callbacks.
 - No writes to source databases, bot cache, production code, or systemd units.
 - Writes are limited to `market_data/` inside a separate Git checkout.
 - Pushes only to `data/hourly-market-data`; never to `main`.
@@ -24,7 +24,7 @@ OHLCV is a rolling 90-day export and OTC trades are rolling 30-day. Historical b
 ## Deployment topology
 
 ```text
-Production bot + SQLite DBs (unchanged)
+METRIQA production bot + SQLite DBs (unchanged)
              |
              | SQLite mode=ro / query_only
              v
@@ -39,7 +39,7 @@ Private GitHub branch: data/hourly-market-data
 
 Use a separate clone of this repository at `/home/ubuntu/metriqa-export-repo`, checked out on `data/hourly-market-data`. Do not use the production bot directory as the Git working copy.
 
-Environment variables (defaults shown):
+The database filenames and source directories below retain their existing server-side names for compatibility. This does not mean the current product or bot is named JETT.\n\nEnvironment variables (defaults shown):
 - `METRIQA_RADAR_DB=/home/ubuntu/jett_data/jett_radar.db`
 - `METRIQA_SIGNALS_DB=/home/ubuntu/bot/jett_signals.db`
 - `METRIQA_MARKET_CACHE=/home/ubuntu/bot/market_cache.json`
