@@ -1,0 +1,21 @@
+[Unit]
+Description=METRIQA read-only market data export
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=ubuntu
+WorkingDirectory=/home/ubuntu/metriqa-export-repo
+Environment=METRIQA_RADAR_DB=/home/ubuntu/jett_data/jett_radar.db
+Environment=METRIQA_SIGNALS_DB=/home/ubuntu/bot/jett_signals.db
+Environment=METRIQA_MARKET_CACHE=/home/ubuntu/bot/market_cache.json
+Environment=METRIQA_EXPORT_REPO=/home/ubuntu/metriqa-export-repo
+Environment=METRIQA_EXPORT_BRANCH=data/hourly-market-data
+ExecStart=/usr/bin/python3 /home/ubuntu/metriqa-export-repo/data_exporter/exporter.py
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadOnlyPaths=/home/ubuntu/bot/jett_signals.db /home/ubuntu/jett_data/jett_radar.db /home/ubuntu/bot/market_cache.json
+ReadWritePaths=/home/ubuntu/metriqa-export-repo /home/ubuntu/.metriqa-export.lock
