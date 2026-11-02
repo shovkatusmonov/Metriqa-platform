@@ -9,6 +9,7 @@ METRIQA read-only data exporter.
 from __future__ import annotations
 
 import csv
+from contextlib import closing
 import fcntl
 import hashlib
 import json
@@ -191,11 +192,11 @@ def main():
     }
 
     try:
-        with connect_readonly(RADAR_DB) as conn:
+        with closing(connect_readonly(RADAR_DB)) as conn:
             for table, filt in RADAR_TABLES.items():
                 result = export_table(conn, table, DATA_DIR / "radar" / f"{table}.csv", filt)
                 manifest["sources"][f"radar.{table}"] = result
-        with connect_readonly(SIGNALS_DB) as conn:
+        with closing(connect_readonly(SIGNALS_DB)) as conn:
             for table, filt in SIGNAL_TABLES.items():
                 result = export_table(conn, table, DATA_DIR / "signals" / f"{table}.csv", filt)
                 manifest["sources"][f"signals.{table}"] = result
@@ -220,15 +221,19 @@ def main():
         if current != BRANCH:
             raise RuntimeError(f"Wrong Git branch: {current!r}; expected {BRANCH!r}")
         git("add", "market_data")
-        changed = git("diff", "--cached", "--quiet")
-        # git diff --quiet exits 1 when changes exist; subprocess check=True raises.
     except subprocess.CalledProcessError as exc:
-        if exc.returncode == 1 and exc.cmd[1:3] == ["diff", "--cached"]:
-            pass
-        else:
-            raise RuntimeError((exc.stderr or str(exc))[:1000]) from exc
+        raise RuntimeError((exc.stderr or str(exc))[:1000]) from exc
 
     # Commit only if staged changes exist; no empty commits.
+    diff = subprocess.run(
+        ["git", "diff", "--cached", "--quiet"], cwd=REPO_DIR,
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=60,
+    )
+    if diff.returncode not in (0, 1):
+        raise RuntimeError((diff.stderr or "git diff failed")[:1000])
+    if diff.returncode == 0:
+        print("No data changes; no commit created.")
+        return 0
     status = git("status", "--porcelain", "--", "market_data").stdout.strip()
     if not status:
         print("No data changes; no commit created.")
