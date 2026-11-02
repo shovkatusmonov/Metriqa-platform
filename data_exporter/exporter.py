@@ -91,10 +91,19 @@ def table_exists(conn: sqlite3.Connection, table: str) -> bool:
 def export_table(conn: sqlite3.Connection, table: str, target: Path, filter_spec):
     if not table_exists(conn, table):
         return {"status": "missing_table", "rows": 0}
-    columns = [r["name"] for r in conn.execute(f'PRAGMA table_info("{table}")')]
+    # Never export raw payload or potentially identifying free-form fields.
+    denied_columns = {
+        "raw_data", "raw_api_response", "response_json", "request_params",
+        "extracted_text", "document_text", "ocr_text", "payload",
+    }
+    columns = [
+        r["name"] for r in conn.execute(f'PRAGMA table_info("{table}")')
+        if r["name"].lower() not in denied_columns
+    ]
     if not columns:
         return {"status": "empty_schema", "rows": 0}
-    sql = f'SELECT * FROM "{table}"'
+    quoted_columns = ", ".join(f'"{c}"' for c in columns)
+    sql = f'SELECT {quoted_columns} FROM "{table}"'
     params = ()
     if filter_spec:
         where, params = filter_spec
