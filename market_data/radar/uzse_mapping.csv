@@ -1,0 +1,896 @@
+﻿stock_id,ticker,uzse_id,isin,company_name,updated_at
+1,OOSM,,UZ7021980006,Ohangaronsement aksiyadorlik jamiyati,2026-10-03 16:09:55
+2,KSCM,,UZ7022100000,<Quvasoycement> AJ,2026-10-03 13:25:17
+3,URTS,,UZ7043200003,<O'zRTXB> AJ,2026-10-03 13:25:17
+4,KVTS,,UZ7025770007,<Kvarts> AJ,2026-10-03 13:25:17
+5,UZMK,,UZ7021720006,<O'zmetkombinat> AJ,2026-10-03 13:25:17
+11,QZSM,,UZ7029000005,<Qizilqumsement> AJ,2026-10-03 13:25:17
+12,IPKY,,UZ7039920002,AITB <Ipak Yo'li>,2026-10-03 13:25:17
+13,ALKB,,UZ7044760005,AT <Aloqabank>,2026-10-03 13:25:17
+15,DORI,,UZ7054590003,<DORI-DARMON> AK,2026-10-03 13:25:17
+16,BIOK,,UZ7025870005,<Biokimyo> AJ,2026-10-03 13:25:17
+17,SQBN,,UZ7037560008,<O'zsanoatqurilishbank> ATB,2026-10-03 13:25:17
+18,UNVB,,UZ7046910004,ATB <Universal bank>,2026-10-03 13:25:17
+19,SANE,,UZ7023760000,Sarbon-Neftegaz aksiyadorlik jamiyati,2026-10-03 08:47:07
+20,CBSK,,UZ7038380000,<Chilonzor buyum savdo kompleksi> AJ,2026-10-03 13:25:17
+21,HMKB,,UZ7011340005,<Hamkorbank> ATB,2026-10-03 13:25:17
+22,KASU,,UZ7028660007,<Kapital sug'urta> AJ,2026-10-03 13:25:17
+23,ALSM,,UZ7045320007,<ALSKOM SUG'URTA KOMPANIYASI> AJ,2026-10-03 13:25:17
+24,OKUM,,UZ7004510002,Qo'qon mexanika zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+25,IPTB,,UZ7054570005,<Ipoteka-bank> ATIB,2026-10-03 13:25:17
+26,OKYZ,,UZ7016550004,Xorijiy investisiya ishtirokidagi Kogon yog'-ekstraksiya zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+27,JIPL,,UZ7045280003,Jizzax plastmassa aksiyadorlik jamiyati,2026-10-03 16:09:55
+28,TRSB,,UZ7033480003,<Trastbank> XAB,2026-10-03 13:25:17
+29,BRBN,,UZ7018790004,<Biznesni rivojlantirish banki> ATB,2026-10-03 13:25:17
+30,UZIR,,UZ7052260005,<O'zbekko'mir> AJ,2026-10-03 13:25:17
+31,AGBA,,UZ7001560000,<Agrobank> ATB,2026-10-03 13:25:17
+32,GRBK,,UZ7037610001,<GARANT BANK> AJ,2026-10-03 13:25:17
+33,OUST,,UZ7055380008,GOODWILL CAPITAL aksiyadorlik jamiyati,2026-10-03 16:09:55
+34,MCBA,,UZ7015230004,<Mikrokreditbank> ATB,2026-10-03 13:25:17
+35,KFSK,,UZ7001100005,<Kafolat sug'urta kompaniyasi> AJ,2026-10-03 13:25:17
+36,OTKS,,UZ7009280007,Turkiston Xususiy aksiyadorlik tijorat banki,2026-10-03 16:09:55
+37,TNBN,,UZ7035530003,<Turonbank> ATB,2026-10-03 13:25:17
+38,UZAS,,UZ7045570007,O'zagrosug'urta aksiyadorlik jamiyati,2026-10-03 08:47:07
+54,OOSMP,,UZ702198K011,Ohangaronsement aksiyadorlik jamiyati,2026-10-03 16:09:55
+55,KSCMP,,,Quvasoycement,2026-10-02 19:58:02
+56,UZMKP,,UZ702172K016,O'zmetkombinat,2026-10-02 20:02:52
+57,IPKYP,,,Ipak Yo'li Bank,2026-10-02 19:58:02
+58,ALKBP,,UZ704476K019,Aloqabank,2026-10-02 20:02:52
+59,SQBNP,,UZ703756K015,O'zsanoatqurilishbank,2026-10-02 20:02:52
+60,HMKBP,,UZ701134K017,Hamkorbank,2026-10-02 20:02:52
+61,KASUP,,UZ702866K013,Kapital sug'urta,2026-10-02 20:02:52
+62,ALSMP,,UZ704532K019,Alskom,2026-10-02 20:02:52
+63,IPTBP,,UZ705457K018,Ipoteka bank,2026-10-02 20:02:52
+64,OKYP,,UZ701655K011,Xorijiy investisiya ishtirokidagi Kogon yog'-ekstraksiya zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+67,TRSBP,,UZ703348K011,Trastbank,2026-10-02 20:02:52
+68,BRBNP,,UZ701879K017,Biznesni rivojlantirish banki,2026-10-02 20:02:52
+69,UZIRP,,UZ705226K017,O'zbekko'mir,2026-10-02 20:02:52
+70,AGBAP,,UZ700156K011,Agrobank,2026-10-02 20:02:52
+71,GRBKP,,,GARANT BANK,2026-10-02 19:58:02
+72,KFSKP,,UZ700110K018,Kafolat Insurance Company,2026-10-02 20:02:52
+75,UVCM,,UZ7016460006,"Xorijiy investitsiyalar ishtirokidagi O'zbekiston rangli metall parchalari, chiqindilarini tayyorlash va qayta ishlash",2026-10-03 16:09:55
+76,AGMKP,,UZ700055K015,Olmaliq KMK,2026-10-02 20:02:52
+78,OHMCP,,UZ7057171009,HUMANS COMPANIES Aksiyadorlik jamiyati,2026-10-03 16:09:55
+81,OSNE,,UZ7056290008,O'zsanoateksport aksiyadorlik jamiyati,2026-10-03 16:09:55
+82,OTVK,,UZ7028090007,Chet el investitsiyasi ishtirokidagi Toshkentvino kombinati aksiyadorlik jamiyati,2026-10-03 16:09:55
+83,UZNGP,,UZ7036271003,O'zbekneftgaz,2026-10-02 20:02:52
+86,OSKH,,UZ7048090003,Sirdaryo viloyat Agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+87,UTYK,,UZ7051720009,<O'ztemiryo'lkonteyner> AJ,2026-10-03 13:25:17
+88,OYGY,,UZ7014560005,Yangiyo'l yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+89,OSEP,,UZ7005900004,Sredazenergosetproekt aksiyadorlik jamiyati,2026-10-03 16:09:55
+90,OTNGK,,UZ7010190005,Toshneftegazqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+91,EQQU,,UZ7007130006,<Elektrqishloqqurilish> AJ,2026-10-03 13:25:17
+93,OKBL,,UZ7035340007,UZKABEL aksiyadorlik jamiyati qo'shma korxonasi,2026-10-03 16:09:55
+94,TGPG,,UZ7036730008,<Tashgiprogor> AJ,2026-10-03 13:25:17
+95,OTBZ,,UZ7042380004,1-Temir beton mahsulotlari zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+96,UTGAP,,UZ704338K011,O'ztransgaz,2026-10-02 20:02:52
+97,YRFS,,UZ7051820007,<Yo'lreftrans> AJ,2026-10-03 13:25:17
+98,OHPV,,UZ7000090009,Halq parvarlik aksiyadorlik jamiyati,2026-10-03 16:09:55
+99,OMLK,,UZ7000100006,MULK aksiyadorlik jamiyati,2026-10-03 16:09:55
+100,ONSK,,UZ7000150001,Navoisavdo aksiyadorlik jamiyati,2026-10-03 16:09:55
+101,OMDB,,UZ7000380004,Markaziy dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+102,OMDBP,,UZ700038K011,Markaziy dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+103,AGMK,,UZ7000550002,<Olmaliq KMK> AJ,2026-10-03 13:25:17
+105,OBCS,,UZ7000560001,QK Biznes Centr Samarkand aksiyadorlik jamiyati,2026-10-03 16:09:55
+110,OQPI,,UZ7001990009,Qashqadaryo parmalash ishlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+111,UZMT,,UZ7003040001,<UzAuto Motors> AJ,2026-10-03 13:25:17
+112,OSMS,,UZ7003360003,Samarqand konserva aksiyadorlik jamiyati,2026-10-03 16:09:55
+114,A004520,,,To'ytepa metall qurilmalari,2026-10-02 19:58:02
+115,OGRT,,UZ7004770002,Granit aksiyadorlik jamiyati,2026-10-03 16:09:55
+116,OGRTP,,UZ700477K011,Granit aksiyadorlik jamiyati,2026-10-03 16:09:55
+117,OBNM,,,Buxoroenergomarkaz,2026-10-02 19:58:02
+118,OBNMP,,,Buxoroenergomarkaz,2026-10-02 19:58:02
+119,OUKF,,UZ7005080005,O'zbekfilm aksiyadorlik jamiyati,2026-10-03 16:09:55
+120,OUKFP,,UZ700508K013,O'zbekfilm aksiyadorlik jamiyati,2026-10-03 16:09:55
+121,UPOS,,UZ7005280001,<O'zbekiston pochtasi> AJ,2026-10-03 13:25:17
+122,UPOSP,,UZ700528K011,UzPost,2026-10-02 20:02:52
+123,OJSK,,UZ7005540008,Jahon savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+124,OIFC,,UZ7005670003,Indorama Kokand Fertilizers and Chimicals aksiyadorlik jamiyati,2026-10-03 16:09:55
+125,OIFCP,,UZ700567K019,Indorama Kokand Fertilizers and Chimicals aksiyadorlik jamiyati,2026-10-03 16:09:55
+127,UZPN,,UZ7005950009,<O'zpartamponaj> AJ,2026-10-03 13:25:17
+128,TAPA,,,Taminotchi-Paxta,2026-10-02 19:58:02
+130,OQQB,,UZ7007030008,Qaraqalpaqboyan akcionerlik ja'miyeti,2026-10-03 16:09:55
+132,OJXZ,,UZ7007240003,JIXOZ aksiyadorlik jamiyati,2026-10-03 16:09:55
+133,OULM,,UZ7007330002,Aksiyadorlik jamiyati shaklidagi Uzsalaman O'zbekiston - Germaniya qo'shma korxonasi,2026-10-03 16:09:55
+134,MIQE,,UZ7007440009,Minora qurish ekspeditsiyasi aksiyadorlik jamiyati,2026-10-03 08:47:07
+136,UZGF,,UZ7007880006,<O'zbekgeofizika> AJ,2026-10-03 13:25:17
+137,UZGFP,,UZ700788K011,O'zbekgeofizika,2026-10-02 20:02:52
+138,OUMI,,UZ7008060004,O'zmarkazimpeks aksiyadorlik jamiyati,2026-10-03 16:09:55
+139,OPIM,,UZ7008510008,Paxtasanoat Ilmiy Markazi aksiyadorlik jamiyati,2026-10-03 16:09:55
+141,OCBS,,UZ7008730002,Chorsu buyum savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+142,ORST,,,O'rta osiyo trans,2026-10-02 19:58:02
+144,ORPT,,UZ7009330000,Rishton paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+145,ORPTP,,UZ700933K013,Rishton paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+146,OYQD,,UZ7009570001,Yerqo'rg'on dehqon (oziq-ovqat) bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+147,ONQT,,UZ7009600006,O'zneftgazquduqta'mirlash aksiyadorlik jamiyati,2026-10-03 16:09:55
+148,ONQTP,,UZ700960K016,O'zneftgazquduqta'mirlash aksiyadorlik jamiyati,2026-10-03 16:09:55
+149,OKSN,,UZ7009660000,Koson 232 - Xo'jaliklararo Mexanizasiyalashgan Ko'chma Kalonna aksiyadorlik jamiyati,2026-10-03 16:09:55
+150,OYTB,,UZ7009800002,Temiryo'l  transport  boshqarmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+151,OATK,,UZ7010120002,Anteks aksiyadorlik jamiyati,2026-10-03 16:09:55
+152,OZBU,,UZ7010130001,Ziraat Bank Uzbekistan aksiyadorlik jamiyati,2026-10-03 16:09:55
+155,OJPR,,UZ7010780003,Jondor paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+156,OZNG,,UZ7011030002,O'zlitineftgaz aksiyadorlik jamiyati,2026-10-03 16:09:55
+157,OKRN,,UZ7011280003,Karbonat aksiyadorlik jamiyati,2026-10-03 16:09:55
+160,OTQN,,UZ7011460001,O'ztashqineftgaz aksiyadorlik jamiyati,2026-10-03 16:09:55
+161,UZAL2,,,O'zagrolizing,2026-10-02 19:58:02
+162,UZAL,,UZ7011500004,<O'zagrolizing> AJ,2026-10-03 13:25:17
+163,UZALP,,,O'zagrolizing,2026-10-02 19:58:02
+164,OULI,,UZ7011510003,UZBEK LEASING INTERNATIONAL A.O. AKSIYADORLIK JAMIYATI,2026-10-03 16:09:55
+165,PLST,,UZ7011550009,<Portlatishsanoat> AJ,2026-10-03 13:25:17
+166,PLSTP,,,Portlatishsanoat,2026-10-02 19:58:02
+167,OADB,,UZ7011850003,Aviasozlar dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+168,OYDB,,UZ7012390009,Yunusobod dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+169,A012440,,,Urganch yog'-moy aksiyadorlik jamiyati,2026-10-03 08:45:03
+170,JASM,,UZ7012450001,<JSM> AJ,2026-10-03 13:25:17
+171,MXUS,,,93-MAXSUS TREST,2026-10-02 19:58:02
+172,ORVB,,UZ7012490007,O'zbekiston Respublika valyuta birjasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+173,OTQX,,UZ7012540009,Toshkent qishloq xo'jalik mahsulotlari ulgurji bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+174,OKDB,,UZ7012740005,KDB Bank O'zbekiston aksiyadorlik jamiyati,2026-10-03 16:09:55
+175,OXHM,,UZ7013210008,Aksiyadorlik jamiyati shaklidagi Xalqaro Hamkorlik Markazi kompaniyasi,2026-10-03 16:09:55
+177,OQSA,,UZ7014010001,Qarshi shahar 12-sonli avtokorxona aksiyadorlik jamiyati,2026-10-03 16:09:55
+178,OAKQ,,UZ7014210007,Amubuxorokanalqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+180,OYGYP,,UZ701456K014,Yangiyo'l yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+181,OYSI,,UZ7014580003,YENGILSANOATINVEST Ochiq aksiyadorlik jamiyati,2026-10-03 16:09:55
+182,MSTN,,UZ7014670002,Mastona aksiyadorlik jamiyati,2026-10-03 16:09:55
+183,MSTNP,,UZ701467K011,Mastona aksiyadorlik jamiyati,2026-10-03 16:09:55
+184,OKPS,,UZ7014810004,O'zkimyopolimersavdo ulgurji savdo vositachilik firmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+185,OLQC,,UZ7014950008,Lazzat QIChAJ aksiyadorlik jamiyati shakildagi qo'shma korxonasi,2026-10-03 16:09:55
+186,OMSB,,UZ7015030008,Mulk-Sarmoya Brokerlik Uyi aksiyadorlik jamiyati,2026-10-03 16:09:55
+188,MCBAP,,UZ701523K011,Mikrokreditbank,2026-10-02 20:02:52
+189,OUBT,,UZ7015280009,Aksiyadorlik jamiyati UZBAT A.O. qo'shma korxonasi,2026-10-03 16:09:55
+190,ONVZ,,UZ7015340001,No'kis vinozavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+191,ONVZP,,UZ701534K018,No'kis vinozavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+192,ONDD,,UZ7016140004,Navoiy dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+195,OGEY,,UZ7016250001,Guliston Ekstrakt-Yog' aksiyadorlik jamiyati,2026-10-03 16:09:55
+196,OGEYP,,UZ701625K014,Guliston Ekstrakt-Yog' aksiyadorlik jamiyati,2026-10-03 16:09:55
+197,UZHM,,UZ7016400002,O'ZBEKKIMYOMASH ZAVODI Aksiyadorlik jamiyati,2026-10-03 08:47:07
+199,OQDM,,UZ7016470005,Qashqadaryodonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+200,OQDMP,,UZ701647K018,Qashqadaryodonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+201,OATS,,UZ7016530006,Andijon tajriba-sinov zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+202,OATSP,,UZ701653K016,Andijon tajriba-sinov zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+205,OSVE,,UZ7016820001,Sredazsvetmetenergo aksiyadorlik jamiyati,2026-10-03 16:09:55
+206,OSVEP,,UZ701682K015,Sredazsvetmetenergo aksiyadorlik jamiyati,2026-10-03 16:09:55
+207,OFDD,,UZ7016990002,Farg'ona dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+208,OFDDP,,UZ701699K019,Farg'ona dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+209,OSDD,,UZ7017110006,Samarqand dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+210,ORFB,,UZ7017140003,Toshkent Respublika fond birjasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+211,ODNM,,UZ7017160001,Dunyo-M aksiyadorlik jamiyati,2026-10-03 16:09:55
+212,ODNMP,,UZ701716K011,Dunyo-M aksiyadorlik jamiyati,2026-10-03 16:09:55
+213,OKIY,,UZ7017180009,Kitob ip yigiruv aksiyadorlik jamiyati,2026-10-03 16:09:55
+214,OKYM,,UZ7017610005,Kattaqo'rg'on yog'-moy AJ,2026-10-04 09:49:37
+215,OKYMP,,UZ701761K017,Kattaqo'rg'on yog'-moy AJ (pref),2026-10-04 09:49:37
+216,OQDD,,UZ7017690007,Qashqadaryo dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+217,OBDD,,UZ7017710003,Bag'doddonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+218,OBDDP,,UZ701771K016,Bag'doddonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+219,OSDL,,,Shodlik,2026-10-02 19:58:02
+220,OUYM,,UZ7017850007,Urganch yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+221,OUYMP,,UZ701785K016,Urganch yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+222,OYGR,,UZ7017940006,Beruniy Yog'gar aksiyadorlik jamiyati,2026-10-03 16:09:55
+223,OYGRP,,UZ701794K018,Beruniy Yog'gar aksiyadorlik jamiyati,2026-10-03 16:09:55
+224,OSBM,,UZ7017970003,Chimbay may aksiyadorlik jamiyati,2026-10-03 16:09:55
+225,OSBMP,,UZ701797K011,Chimbay may aksiyadorlik jamiyati,2026-10-03 16:09:55
+226,OADD,,UZ7018010007,Andijon dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+227,OADDP,,UZ701801K011,Andijon dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+229,OQDL,,UZ7018140002,Qo'qon don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+230,OQDLP,,UZ701814K014,Qo'qon don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+232,OKUY,,UZ7018290005,Qo'qon yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+233,OKUYP,,UZ701829K012,Qo'qon yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+234,OQYE,,UZ7018400000,Qarshi yog'-ekstraksiya aksiyadorlik jamiyati,2026-10-03 16:09:55
+235,OFDM,,UZ7018520005,Farg'onadonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+236,OFDMP,,UZ701852K014,Farg'onadonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+237,A018610,,,Agalyk-Lohmann-Parranda,2026-10-02 19:58:02
+238,NGDD,,,Namangan Dori-Darmon,2026-10-02 19:58:02
+239,OTDD,,UZ7018670008,Toshkent viloyati DORI-DARMON aksiyadorlik jamiyati,2026-10-03 16:09:55
+242,OQUZ,,UZ7019050002,Qonirat un zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+243,OQUZP,,UZ701905K010,Qonirat un zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+245,NGQTP,,,Neftgazqurilishta'mir,2026-10-02 19:58:02
+246,OIRT,,UZ7019360005,Aksiyadorlik jamiyati shaklidagi Inter-Rohat Qo'shma korxonasi,2026-10-03 16:09:55
+247,OIRTP,,UZ701936K015,Aksiyadorlik jamiyati shaklidagi Inter-Rohat Qo'shma korxonasi,2026-10-03 16:09:55
+248,OQDR,,UZ7019380003,Qoraqalpoq don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+249,OQDRP,,UZ701938K011,Qoraqalpoq don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+250,OCPL,,UZ7019410008,Chust paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+251,OCPLP,,UZ701941K015,Chust paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+252,ONPT,,UZ7019470002,Nishon paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+253,OMLT,,UZ7019650009,Mingbuloq paxta tozalsh aksiyadorlik jamiyati,2026-10-03 16:09:55
+254,OMLTP,,UZ701965K014,Mingbuloq paxta tozalsh aksiyadorlik jamiyati,2026-10-03 16:09:55
+255,OSRD,,,Shohrud,2026-10-02 19:58:02
+256,OSRDP,,,Shohrud,2026-10-02 19:58:02
+257,OPPL,,UZ7019730009,Pop paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+258,OPPLP,,UZ701973K018,Pop paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+259,OANP,,UZ7019750007,Xorijiy sarmoyali ANGREN PACK aksiyadorlik jamiyati,2026-10-03 16:09:55
+260,ONPZ,,UZ7019810009,Norin paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+261,OUSH,,UZ7019830007,Urganch sharob aksiyadorlik jamiyati,2026-10-03 16:09:55
+262,OUSHP,,UZ701983K017,Urganch sharob aksiyadorlik jamiyati,2026-10-03 16:09:55
+263,OBDH,,UZ7019940004,Buxorodonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+264,OBDHP,,UZ701994K014,Buxorodonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+265,A020130,,,Qo'qon paxta tozalash,2026-10-02 19:58:02
+266,A02013K,,,Qo'qon paxta tozalash,2026-10-02 19:58:02
+267,OJPL,,UZ7020280002,Jeynov paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+268,OKPZ,,UZ7020330005,Kosonsoy paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+271,OJDS,,UZ7020740005,Jizzaxdonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+272,OJDSP,,UZ702074K014,Jizzaxdonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+273,A020780,,,O'zbekiston paxta tozalash korxonasi,2026-10-02 19:58:02
+274,A02078K,,,O'zbekiston paxta tozalash korxonasi,2026-10-02 19:58:02
+275,OQPZ,,UZ7020900005,Quva paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+276,OJPZ,,UZ7021000003,Jarqo'rgon paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+277,OPPZ,,UZ7021150006,Peshku paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+278,OPPZP,,UZ702115K015,Peshku paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+280,OCQP,,UZ7021360001,O'rtachirchiqparranda chet el sarmoyasi ishtirokidagi aksiyadorlik jamiyati,2026-10-03 16:09:55
+281,OYPT,,UZ7021400005,Yakkabog' paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+282,ONDR,,UZ7021420003,Navoiydonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+283,ONDRP,,UZ702142K019,Navoiydonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+284,OQTZ,,UZ7021470008,Qiziriq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+285,OSZQ,,UZ7021490006,Surhonoziqovqatsanoati aksiyadorlik jamiyati,2026-10-03 16:09:55
+286,KNVN,,,Konvin,2026-10-02 19:58:02
+287,KNVNP,,,Konvin,2026-10-02 19:58:02
+288,OCPH,,UZ7021660004,Chiroqchi paxta tozalash Aksiyadorlik jamiyati,2026-10-03 16:09:55
+289,OQDH,,UZ7021680002,Quva don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+290,OQDHP,,UZ702168K014,Quva don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+291,OBPL,,UZ7021690001,Beshariq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+292,OBPLP,,UZ702169K012,Beshariq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+293,UZ6021727AA1,,,O'zmetkombinat,2026-10-02 19:58:02
+296,OTPZ,,UZ7021760002,Toshloq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+297,OSVA,,UZ7021780000,Shahrisabz vino-aroq aksiyadorlik jamiyati,2026-10-03 16:09:55
+298,OBTZ,,UZ7021870009,Beshkent paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+299,OPDM,,UZ7021890007,Popdonmahsulot aksiyadorlik jamiyati,2026-10-03 16:09:55
+300,OPDMP,,UZ702189K010,Popdonmahsulot aksiyadorlik jamiyati,2026-10-03 16:09:55
+301,OMTS,,UZ7021900004,O'zmetallsavdo aksiyadorlik jamiyati,2026-10-03 16:09:55
+302,OQDX,,UZ7021940000,Qo'rg'ontepa don maxsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+303,OQDXP,,UZ702194K010,Qo'rg'ontepa don maxsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+304,OEKZ,,UZ7021970007,Elektrokimyozavod qo'shma korxonasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+307,OTDH,,UZ7022070005,Tahiatosh don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+308,OTDHP,,UZ702207K010,Tahiatosh don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+311,OSPL,,UZ7022190001,Sho'rchi paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+312,OSPLP,,UZ702219K015,Sho'rchi paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+313,OOHS,,UZ7022250003,Ohangaronshifer aksiyadorlik jamiyati,2026-10-03 16:09:55
+314,OOHSP,,UZ702225K012,Ohangaronshifer aksiyadorlik jamiyati,2026-10-03 16:09:55
+315,OMPZ,,UZ7022290009,Mustaqillik paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+316,OBPZ,,UZ7022370009,Bo'ka paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+317,OBPZP,,UZ702237K017,Bo'ka paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+319,OCPZ,,UZ7022620007,Chinoz paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+320,OPPS,,UZ7022750002,Piskent paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+321,OPPSP,,UZ702275K017,Piskent paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+322,OOPT,,UZ7022790008,Olimkent paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+323,OKPT,,UZ7022900003,Koson paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+324,OXPP,,UZ7022910002,Xodjeyli paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+325,OXPPP,,UZ702291K014,Xodjeyli paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+326,OSDM,,UZ7023040007,Sho'rchi don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+327,ORGS,,UZ7023070004,<ORGRES> AJ,2026-10-03 13:25:17
+328,OJPT,,UZ7023080003,Juma paxta zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+329,OJPTP,,UZ702308K016,Juma paxta zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+330,OHDN,,UZ7023190000,<Ohangaron don> AJ,2026-10-03 13:25:17
+331,OBTS,,UZ7023580002,Bo'z paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+333,OSMR,,UZ7023830001,Samarqandmarmar aksiyadorlik jamiyati,2026-10-03 16:09:55
+334,OSMRP,,UZ702383K019,Samarqandmarmar aksiyadorlik jamiyati,2026-10-03 16:09:55
+335,BMKB,,UZ7023840000,Bosh maxsus konstruktor byurosi-Agromash aksiyadorlik jamiyati,2026-10-03 16:09:55
+336,ONGT,,UZ7023950007,Neft va gaz ishlab chiqarishni ta'mirlash aksiyadorlik jamiyati,2026-10-03 16:09:55
+337,OBQT,,UZ7023980004,Aksiyadorlik jamiyati shaklidagi Beshariqtekstil O'zbekiston - Buyuk Britaniya qo'shma korxonasi,2026-10-03 16:09:55
+338,OBQTP,,UZ702398K017,Aksiyadorlik jamiyati shaklidagi Beshariqtekstil O'zbekiston - Buyuk Britaniya qo'shma korxonasi,2026-10-03 16:09:55
+339,OXPL,,UZ7024120006,Xayrabod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+340,OQPT,,UZ7024250001,Qorako'l paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+341,OQPTP,,UZ702425K018,Qorako'l paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+342,ONDH,,UZ7024270009,Namangandonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+343,ONDHP,,UZ702427K014,Namangandonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+344,OQNS,,UZ7024440008,Qashqadaryoneftgazsanoatqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+345,OXDM,,UZ7024490003,Xovos don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+346,OXDMP,,UZ702449K018,Xovos don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+347,OTQM,,UZ7024660001,Toshkent qurilish mollari kombinati aksiyadorlik jamiyati,2026-10-03 16:09:55
+348,OTQMP,,UZ702466K012,Toshkent qurilish mollari kombinati aksiyadorlik jamiyati,2026-10-03 16:09:55
+349,A024680,,,Qiziltepa paxta tozalash,2026-10-02 19:58:02
+350,OBAP,,UZ7024730002,Bag'dod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+351,OBAPP,,UZ702473K018,Bag'dod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+352,OXDS,,UZ7024760009,Xorazmdonmaxsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+353,OXDSP,,UZ702476K011,Xorazmdonmaxsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+354,OGPT,,UZ7024810002,Guliston paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+355,OGPTP,,UZ702481K011,Guliston paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+356,A024890,,,Texnolog,2026-10-02 19:58:02
+357,OXPT,,UZ7024910000,Xatirchipaxtatozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+359,ODVA,,UZ7025000009,Denov vino-aroq aksiyadorlik jamiyati,2026-10-03 16:09:55
+360,OBPT,,UZ7025160001,Boyovut paxta tozalash aktsiyadorlik jamiyati,2026-10-03 16:09:55
+361,OBPTP,,UZ702516K014,Boyovut paxta tozalash aktsiyadorlik jamiyati,2026-10-03 16:09:55
+362,OAPT,,UZ7025320001,Andijon-3 paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+363,OAPTP,,UZ702532K011,Andijon-3 paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+364,A025330,,,Shahrixon paxta tozalash,2026-10-02 19:58:02
+365,A02533K,,,Shahrixon paxta tozalash,2026-10-02 19:58:02
+366,OPPT,,UZ7025340009,Poytug' paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+367,OPPTP,,UZ702534K017,Poytug' paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+368,OCPT,,UZ7025350008,Chinobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+369,OCPTP,,UZ702535K014,Chinobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+372,OAPL,,UZ7025370006,Andijon 1-son paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+373,OSPH,,UZ7025400001,So'fiqishloq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+374,OAPZ,,UZ7025420009,Asaka paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+375,OAPZP,,UZ702542K010,Asaka paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+379,OEPR,,UZ7025840008,O'zelektroapparat-Electroshield aksiyadorlik jamiyati,2026-10-03 16:09:55
+381,OTSD,,UZ7025880004,Toshkent shahar dori-darmon aksiyadorlik jamiyati,2026-10-03 16:09:55
+382,OMNM,,UZ7025900000,Muborakneftgazmontaj aksiyadorlik jamiyati,2026-10-03 16:09:55
+383,ODKT,,UZ7025980002,Deutsche Kabel AG Taschkent aksiyadorlik jamiyati shaklidagi qo'shma korxonasi,2026-10-03 16:09:55
+384,OGVM,,UZ7026050003,Gazavtomatika aksiyadorlik jamiyati,2026-10-03 16:09:55
+385,OUPT,,UZ7026060002,Uch-tepa paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+386,OUPTP,,UZ702606K013,Uch-tepa paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+387,ODPT,,UZ7026070001,Dashtobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+388,ODPTP,,UZ702607K011,Dashtobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+389,OEPT,,UZ7026330009,Ellikqal'a paxta tozalash aksiyadorlik jamiyati.,2026-10-03 16:09:55
+390,OEPTP,,UZ702633K017,Ellikqal'a paxta tozalash aksiyadorlik jamiyati.,2026-10-03 16:09:55
+391,OOTD,,UZ7026460004,Oqtosh-don aksiyadorlik jamiyati,2026-10-03 16:09:55
+392,OOTDP,,UZ702646K019,Oqtosh-don aksiyadorlik jamiyati,2026-10-03 16:09:55
+393,OQPH,,UZ7026490001,Qamashi paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+394,OMPL,,UZ7026560001,Muzrabot paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+395,OMPLP,,UZ702656K018,Muzrabot paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+396,OFYM,,UZ7026620003,Farg'ona yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+397,OFYMP,,UZ702662K016,Farg'ona yog'-moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+398,OUPZ,,UZ7026650000,Uzun paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+399,OUPZP,,UZ702665K019,Uzun paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+400,OQTR,,UZ7026700003,Qorako'ldonmaxsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+401,OUQY,,UZ7026720001,Uchqo'rg'on-yog' aksiyadorlik jamiyati,2026-10-03 16:09:55
+402,OUDM,,UZ7026830008,Uchqo'rg'on don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+403,OUDMP,,UZ702683K012,Uchqo'rg'on don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+404,TKDM,,UZ7026980001,Toshkentdonmahsulotlari aksiyadorlik jamiyati,2026-10-03 08:47:07
+405,TKDMP,,UZ702698K010,Toshkentdonmahsulotlari aksiyadorlik jamiyati,2026-10-03 08:47:07
+406,OJMD,,UZ7027080009,Jizzax markaziy dehqon bozor aksiyadorlik jamiyati,2026-10-03 16:09:55
+407,OJET,,UZ7027580008,Juma elevatori aksiyadorlik jamiyati,2026-10-03 16:09:55
+408,OUNI,,UZ7027670007,O'zneftgazinformatika aksiyadorlik jamiyati,2026-10-03 16:09:55
+409,OSVD,,UZ7027940004,Shovot don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+410,OSVDP,,UZ702794K017,Shovot don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+411,OXDL,,UZ7027950003,Xonqa don maxsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+412,OXDLP,,UZ702795K014,Xonqa don maxsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+413,OYPZ,,UZ7027960002,Yangiariq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+416,OGPZ,,UZ7028180006,G'ijduvon paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+417,OBGD,,UZ7028200002,Bogot-don aksiyadorlik jamiyati,2026-10-03 16:09:55
+418,OBGDP,,UZ702820K010,Bogot-don aksiyadorlik jamiyati,2026-10-03 16:09:55
+419,OZBT,,UZ7028220000,Zirabuloq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+420,OZBTP,,UZ702822K016,Zirabuloq paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+421,OBPS,,UZ7028240008,Baxt paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+422,OBPSP,,UZ702824K012,Baxt paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+423,OXQT,,UZ7028260006,Xonqa paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+424,OSVP,,UZ7028280004,Shovot paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+425,OHPT,,UZ7028310009,Hazorasp paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+426,OHPTP,,UZ702831K017,Hazorasp paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+427,OQKP,,UZ7028330007,Qo'shkopir paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+428,OQKPP,,UZ702833K013,Qo'shkopir paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+429,A028420,,,O'zbekiston paxta tozalash,2026-10-02 19:58:02
+430,BECM,,UZ7028450003,<Bekobodsement> AJ,2026-10-03 13:25:17
+431,BECMP,,,Bekobodsement,2026-10-02 19:58:02
+432,ONET,,UZ7028570008,Neft ta'minot aksiyadorlik jamiyati,2026-10-03 16:09:55
+433,OCTZ,,UZ7028610002,Chirchiq transformator zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+434,OCTZP,,UZ702861K014,Chirchiq transformator zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+435,OGSL,,UZ7028620001,Aksiyadorlik jamiyati O'zog'irsanoatloyiha Instituti,2026-10-03 16:09:55
+438,OGPL,,UZ7028700001,Gurlan paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+439,OQNZ,,UZ7028740007,Qiziltepa un zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+440,OQNZP,,UZ702874K017,Qiziltepa un zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+441,OUPH,,UZ7028770004,Uchqo'rg'on paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+442,OMPH,,UZ7028810008,Mitan paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+443,OMPHP,,UZ702881K012,Mitan paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+448,OZPZ,,UZ7028890000,Zafarobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+450,OSDH,,UZ7029050000,Surxondaryodonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+451,OPDK,,UZ7029140009,Pod'emnik aksiyadorlik jamiyati,2026-10-03 16:09:55
+452,OZET,,UZ7029160007,O'zElektroterm aksiyadorlik jamiyati,2026-10-03 16:09:55
+453,OZETP,,UZ702916K016,O'zElektroterm aksiyadorlik jamiyati,2026-10-03 16:09:55
+454,OYPL,,UZ7029370002,Yangibozor paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+455,OYPLP,,UZ702937K012,Yangibozor paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+456,OMRT,,UZ7029450002,Markazlashgan Respublika ta'minot bazasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+457,OBGS,,UZ7029680004,Buxorogazsanoatqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+459,OSMG,,UZ7029920004,Simurg aksiyadorlik jamiyati,2026-10-03 16:09:55
+460,OSPX,,UZ7029980008,Shofirkon paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+461,OSPXP,,UZ702998K014,Shofirkon paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+462,OKPL,,UZ7030000002,Kogon paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+463,OKPLP,,UZ703000K018,Kogon paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+464,OKGM,,UZ7030220006,Kogondonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+465,OKYE,,UZ7030360000,Koson yog'-ekstraksiya aksiyadorlik jamiyati,2026-10-03 16:09:55
+466,OKYEP,,UZ703036K012,Koson yog'-ekstraksiya aksiyadorlik jamiyati,2026-10-03 16:09:55
+467,OAPH,,UZ7030390007,Amudaryo paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+468,OAPHP,,UZ703039K016,Amudaryo paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+469,OSPA,,UZ7030420002,Sherobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+470,OAKY,,UZ7030550006,Asaka yog' aksiyadorlik jamiyati,2026-10-03 16:09:55
+471,OQGP,,UZ7030560005,Qumqo'rg'on paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+472,OQGPP,,UZ703056K010,Qumqo'rg'on paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+473,OBTP,,UZ7030810004,Bog'ot paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+474,OBAN,,UZ7030980005,Buxoroneftgazavtonaql aksiyadorlik jamiyati,2026-10-03 16:09:55
+475,OBANP,,UZ703098K012,Buxoroneftgazavtonaql aksiyadorlik jamiyati,2026-10-03 16:09:55
+476,OBXP,,UZ7031150004,Buxoro paxta aksiyadorlik jamiyati,2026-10-03 16:09:55
+477,OBXPP,,UZ703115K014,Buxoro paxta aksiyadorlik jamiyati,2026-10-03 16:09:55
+478,OGRP,,UZ7031570003,Gidroproekt aksiyadorlik jamiyati,2026-10-03 16:09:55
+479,OATZ,,UZ7031610007,Angor paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+480,OZPH,,UZ7031640004,Ziyovuddin paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+481,OZPHP,,UZ703164K012,Ziyovuddin paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+482,OKGT,,UZ7031680000,Kattaqo'rg'on paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+483,OCKP,,UZ7031710005,Chelak paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+484,OSDP,,UZ7031720004,Sardoba paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+485,OSDPP,,UZ703172K015,Sardoba paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+486,OAKD,,UZ7031990003,Asaka don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+487,OSQD,,UZ7032210005,Samarqanddonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+488,OSQDP,,UZ703221K010,Samarqanddonmahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+489,OMNT,,UZ7032560003,Muborakneftgaztrans aksiyadorlik jamiyati,2026-10-03 16:09:55
+490,OMNTP,,UZ703256K016,Muborakneftgaztrans aksiyadorlik jamiyati,2026-10-03 16:09:55
+491,OQQT,,UZ7032570002,Qashqadaryo neft-gaz qurilish va ta'mirlash aksiyadorlik jamiyati,2026-10-03 16:09:55
+492,OQQTP,,UZ703257K014,Qashqadaryo neft-gaz qurilish va ta'mirlash aksiyadorlik jamiyati,2026-10-03 16:09:55
+493,OTUM,,UZ7032680009,Toshkent univermagi aksiyadorlik jamiyati,2026-10-03 16:09:55
+494,OTUMP,,UZ703268K011,Toshkent univermagi aksiyadorlik jamiyati,2026-10-03 16:09:55
+495,UPAT,,UZ7032730002,<O'zparavtotrans> AJ,2026-10-03 13:25:17
+496,UPATP,,,O'zparavtotrans,2026-10-02 19:58:02
+497,OBMD,,UZ7032740001,Buxoro ta'mirlash mexanika zavodi aksiyadorlik jamiyati,2026-10-03 16:14:06
+498,OBMZP,,UZ703274K019,Buxoro ta'mirlash mexanika zavodi aksiyadorlik jamiyati,2026-10-03 16:14:06
+499,OYSG,,UZ7032780007,Yerostigaz aksiyadorlik jamiyati,2026-10-03 16:09:55
+500,OADM,,UZ7033140003,Andijondonmahsulot aksiyadorlik jamiyati,2026-10-03 16:09:55
+501,OADMP,,UZ703314K013,Andijondonmahsulot aksiyadorlik jamiyati,2026-10-03 16:09:55
+502,OZER,,UZ7033220003,Zarbdor elevatori aksiyadorlik jamiyati,2026-10-03 16:09:55
+503,ODDS,,UZ7033240001,Do'stlik don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+504,ODDSP,,UZ703324K012,Do'stlik don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+505,OETQ,,UZ7033440007,Elektrtarmoqqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+506,ORXQ,,UZ7033450006,Respublika o'simliklarni ximoya qilishning kimyo vositalari bazasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+507,ORXQP,,UZ703345K017,Respublika o'simliklarni ximoya qilishning kimyo vositalari bazasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+510,OXPH,,UZ7033500008,Xalqabad paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+511,OXPHP,,UZ703350K017,Xalqabad paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+512,OBPH,,UZ7033530005,Beruniy paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+513,OBPHP,,UZ703353K011,Beruniy paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+514,OPDP,,UZ7034000008,Paxtaobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+515,OPDPP,,UZ703400K010,Paxtaobod paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+516,SRVI,,UZ7034010007,Sirdaryo vino aksiyadorlik jamiyati,2026-10-03 16:11:55
+517,SRVIP,,UZ703401K018,Sirdaryo vino aksiyadorlik jamiyati,2026-10-03 16:09:55
+518,OOQM,,UZ7034210003,OQ OLTIN DON MAHSULOTLARI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+519,OOQMP,,UZ703421K016,OQ OLTIN DON MAHSULOTLARI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+520,OJDH,,UZ7034250009,Jomboy don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+521,OJDHP,,UZ703425K017,Jomboy don mahsulotlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+522,OTLP,,UZ7034440006,To'rtko'l paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+523,OTLPP,,UZ703444K018,To'rtko'l paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+524,QATT,,UZ7034730000,<Qashqadaryo texnologik transport> AJ,2026-10-03 13:25:17
+525,QATTP,,,Qashqadaryo texnologik transport,2026-10-02 19:58:02
+526,OXVK,,UZ7034970002,Xovrenko nomidagi Samarqand vino kombinati aksiyadorlik jamiyati,2026-10-03 16:09:55
+527,OBAX,,UZ7035010006,Bog'ot avtoxizmat aksiyadorlik jamiyati,2026-10-03 16:09:55
+528,OBAXP,,UZ703501K015,Bog'ot avtoxizmat aksiyadorlik jamiyati,2026-10-03 16:09:55
+529,METQ,,UZ7035230000,<METQ> AJ,2026-10-03 13:25:17
+531,OGAG,,UZ7035470002,G'alla-Alteg aksiyadorlik jamiyati,2026-10-03 16:09:55
+532,OGAGP,,UZ703547K018,G'alla-Alteg aksiyadorlik jamiyati,2026-10-03 16:09:55
+534,TNBNP,,UZ703553K016,Turonbank,2026-10-02 20:02:52
+535,OMDD,,UZ7035540002,Xususiy tadbirkorlik va kichik biznesni sug'urta yo'li bilan himoa qiluvchi Madadagentligi aksiyad,2026-10-03 16:09:55
+536,TGMQ,,UZ7035630001,<TRANSGAZMAXSUSQURILISH> AJ,2026-10-03 13:25:17
+537,OZPQ,,UZ7035820008,O'zparqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+538,OZPQP,,UZ703582K015,O'zparqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+539,ONGQ,,UZ7035830007,Neftgaztadqiqot aksiyadorlik jamiyati,2026-10-03 16:09:55
+540,ONGQP,,UZ703583K013,Neftgaztadqiqot aksiyadorlik jamiyati,2026-10-03 16:09:55
+541,OXTT,,UZ7036020004,Xo'jaobod texnologiik transport boshqarmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+542,OAYM,,UZ7036030003,Andijonyog'moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+543,OAYMP,,UZ703603K019,Andijonyog'moy aksiyadorlik jamiyati,2026-10-03 16:09:55
+544,OSAR,,UZ7036050001,Shaxrixon-Avto Ravon aksiyadorlik jamiyati,2026-10-03 16:09:55
+545,OSBA,,UZ7036110003,Samarqand burg'u asbobi aksiyadorlik jamiyati,2026-10-03 16:09:55
+546,UZNG,,UZ7036270005,<O'zbekneftgaz> AJ,2026-10-03 13:25:17
+548,ODPZ,,UZ7036390001,Dalvarzin paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+549,OYBZ,,UZ7036470001,Yangi bozor dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+550,OYBZP,,UZ703647K016,Yangi bozor dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+552,URGK,,UZ7037160007,<Urganchkormmash> AJ,2026-10-03 13:25:17
+553,URGKP,,,Urganchkormmash,2026-10-02 19:58:02
+554,OMEG,,UZ7037260005,MAXSUSENERGOGAZ Aksiyadorlik jamiyati,2026-10-03 16:09:55
+555,OODB,,UZ7037500004,Oloy dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+556,OQBZ,,UZ7037510003,Qo'yliq dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+557,OFDB,,UZ7037530001,Farxod dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+558,OSDB,,UZ7037540000,Sirg'ali dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+559,OPSK,,UZ7037550009,Parkent universal savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+560,UZ6037561289,,,O'zsanoatqurilishbank,2026-10-02 19:58:02
+561,UZ60375676B6,,,O'zsanoatqurilishbank,2026-10-02 19:58:02
+564,OEJB,,UZ7037580006,Eski - juva dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+567,ONDB,,UZ7037630009,Navro'z dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+568,OQDB,,UZ7037740006,Qo'qon shahar Dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+569,OTKH,,UZ7037760004,Toshkent agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+570,ODQB,,UZ7037860002,Quva tumani Dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+571,OMBZ,,UZ7037980008,Farg'ona shahar Markaziy dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+572,ORPL,,UZ7037990007,Romitan paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+573,ORPLP,,UZ703799K015,Romitan paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+574,OQOB,,UZ7038120000,Qarshi shahar Dehqon (oziq-ovqat) bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+575,OGDZ,,UZ7038360002,G'ijduvon dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+577,UZPT,,UZ7038450001,Uzparta'minot aksiyadorlik jamiyati,2026-10-03 16:09:55
+578,UZPTP,,UZ703845K016,Uzparta'minot aksiyadorlik jamiyati,2026-10-03 16:09:55
+579,OSPI,,UZ7038510002,Surxon parmalash ishlariaksiyadorlik jamiyati,2026-10-03 16:09:55
+580,OSPIP,,UZ703851K014,Surxon parmalash ishlariaksiyadorlik jamiyati,2026-10-03 16:09:55
+581,OASB,,UZ7038660005,Asakabank aksiyadorlik jamiyati,2026-10-03 16:09:55
+582,OQSK,,UZ7038770002,Qarshi Markaziy Buyum savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+583,OKSZ,,UZ7038780001,Olmazor kichik sanoat zonasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+584,OABZ,,UZ7039430002,Askiya dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+585,ONCB,,UZ7039590003,Namangan chorsu dehqon universal bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+588,ONHB,,UZ7040450007,Nukus dehkon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+589,UZQM,,,O'ZQXM-XOLDING,2026-10-02 19:58:02
+590,UZQM1,,,O'ZQXM-XOLDING,2026-10-02 19:58:02
+591,OBLQ,,UZ7040770008,Baliqchi xorijiy investisiya ishtirokidagi aksiyadorlik jamiyati,2026-10-03 16:09:55
+592,OBLQP,,UZ704077K015,Baliqchi xorijiy investisiya ishtirokidagi aksiyadorlik jamiyati,2026-10-03 16:09:55
+593,OSNO,,,Sino,2026-10-02 19:58:02
+594,OEBS,,UZ7040920009,Eski shahar buyum savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+596,OTMQ,,UZ7041640002,TOSHTRANSMAXSUSQURILISH aksiyadorlik jamiyati,2026-10-03 16:09:55
+597,QNPI,,,Qo'qon neftgaz parmalash ishlari,2026-10-02 19:58:02
+598,UZSA,,,O'zbekiston Shampani,2026-10-02 19:58:02
+599,OKML,,UZ7042320000,KAMALAK Investitiya fondi aksiyadorlik jamiyati,2026-10-03 16:09:55
+600,OFKN,,UZ7042330009,Foykon aksiyadorlik jamiyati,2026-10-03 16:09:55
+602,OUCP,,UZ7042450005,Uychi paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+603,UQEQ,,UZ7042540003,<O'zQEQ> AJ,2026-10-03 13:25:17
+605,OTKN,,UZ7042610004,Turkiston Invest aksiyadorlik jamiyati,2026-10-03 16:09:55
+606,NGQS,,UZ7042650000,<Neft va gaz quduqlarini sinash> AJ,2026-10-03 13:25:17
+608,OBRK,,UZ7042910008,Baraka investisiya fondi aksiyadorlik jamiyati,2026-10-03 16:09:55
+609,OHUS,,UZ7042970002,Hazorasp universal savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+610,OKFM,,UZ7043060001,S.Q. Islombekov nomidagi O'zkimyofarm aksiyadorlik jamiyati,2026-10-03 16:09:55
+612,ODMP,,UZ7043370004,Daromad Plus investisiya fondi aksiyadorlik jamiyati,2026-10-03 16:09:55
+613,UTGA,,UZ7043380003,<O'ztransgaz> AJ,2026-10-03 13:25:17
+615,OHIN,,UZ7043500006,Hamroh invest aksiyadorlik jamiyati,2026-10-03 16:09:55
+617,ODXR,,UZ7043880002,Don xalq rizqi aksiyadorlik jamiyati,2026-10-03 16:09:55
+618,OTMZ,,UZ7043950003,Toshkent mexanika zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+619,OSEG,,UZ7043970001,Savdoenergo aksiyadorlik jamiyati,2026-10-03 16:09:55
+620,OAKH,,UZ7044180006,Andijon viloyat Andijon agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+621,OMJC,,UZ7044390001,Marvel Juice Co. xorijiy investisiya ishtirokidagi aksiyadorlik jamiyati,2026-10-03 16:09:55
+622,OZGT,,,O'zagrotrans,2026-10-02 19:58:02
+623,OJMS,,UZ7044590006,Jahon ixtisoslashtirilgan aralash mollari savdo kompleksi aksiyadorlik jamiyati shaklidagi savdo kompleksi,2026-10-03 16:09:55
+626,UTHK,,UZ7044930004,<O'Z-TONG HONG KOMPANI> AJQK,2026-10-03 13:25:17
+630,A045360,,,Agregat zavodi,2026-10-02 19:58:02
+631,BNGP,,UZ7045550009,<Buxoroneftgazparmalash> AJ,2026-10-03 13:25:17
+632,BNGPP,,UZ704555K010,Buxoroneftgazparmalash,2026-10-02 20:02:52
+636,OLMF,,UZ7045800008,OLIM-F XIF OAJ,2026-10-03 16:09:55
+637,OPAH,,UZ7046180004,O'zbekiston Respublikasi Prezidenti Administratsiyasi huzuridagi Tibbiyot bosh boshqarmasi O'zbekis,2026-10-03 16:09:55
+640,OELG,,UZ7046970008,Elektrogaz aksiyadorlik jamiyati,2026-10-03 16:09:55
+641,QQBK,,UZ7047080005,QO'QON BIOKIMYO aksiyadorlik jamiyati,2026-10-03 16:09:55
+642,UZTL,,UZ7047110000,<O'zbektelekom> AK,2026-10-03 13:25:17
+643,UZTLP,,UZ704711K019,“O‘zbektelekom” AK,2026-10-02 20:02:52
+644,OQAH,,UZ7047160005,Qoraqalpoq agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+645,OQAHP,,UZ704716K018,Qoraqalpoq agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+646,ONKH,,UZ7047230006,Navoiy agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+647,OKST,,UZ7047280001,O'zkimyosanoat aksiyadorlik jamiyati,2026-10-03 16:09:55
+648,KPB4,,,Kapitalbank,2026-10-02 19:58:02
+649,UZ6047447AB4,,,Kapitalbank,2026-10-02 19:58:02
+650,KPBA,,UZ7047440001,<Kapitalbank> ATB,2026-10-03 13:25:17
+652,OQKH,,UZ7047530009,Qashqadaryo viloyat Agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+653,OSHQ,,UZ7047600000,Sharq nashriyot-matbaa aksiyadorlik kompaniyasi Aksiyadorlik jamiyati,2026-10-03 16:09:55
+654,OSHQP,,UZ704760K016,Sharq nashriyot-matbaa aksiyadorlik kompaniyasi Aksiyadorlik jamiyati,2026-10-03 16:09:55
+655,OABK,,UZ7047650005,Andijon biokimyo zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+656,OMTQ,,UZ7047670003,Matbuot tarqatuvchi aksiyadorlik kompaniyasi,2026-10-03 16:09:55
+657,OFKH,,UZ7047770001,Farg'ona agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+658,A047860,,,Energota'mir,2026-10-02 19:58:02
+659,ONKM,,UZ7047960008,Namangan agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+660,OXKH,,UZ7048030009,Xorazm agrokimyohimoya aksiyadorlik jamiyati,2026-10-03 16:09:55
+662,OSKM,,UZ7048180002,Samarqand viloyati Agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+663,OSSP,,UZ7048190001,Sariosiyo paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+664,OQQS,,UZ7048280000,Qoraqalpoqpaxtasanoat hududiy aksiyadorlik birlashmasi,2026-10-03 16:09:55
+665,OTEM,,UZ7048310005,Turonelektromontaj aksiyadorlik jamiyati,2026-10-03 16:09:55
+666,OJKH,,UZ7048420002,Jizzaxagrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+667,OZTY,,UZ7048430001,O`zbekiston temir yo`llari aksiyadorlik jamiyati,2026-10-03 16:09:55
+670,ONPS,,UZ7048460008,Navoiypaxtasanoat hududiy birlashmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+671,OOCB,,UZ7048610008,OCTOBANK aksiyadorlik jamiyati,2026-10-03 16:09:55
+672,OJPS,,UZ7048630006,Jizzaxpaxtasanoat birlashmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+673,OZPS,,UZ7048640005,Xorazmpaxtasanoat hududiy birlashmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+674,OBKH,,UZ7048650004,Buxoro viloyat Agrokimyohimoya aksiyadorlik jamiyati,2026-10-03 16:09:55
+675,OSNP,,UZ7048670002,Surxondaryopaxtasanoat hududiy aksiyadorlik birlashmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+676,OAPS,,UZ7048680001,Aksiyadorlik jamiyati Andijonpaxtasanoat hududiy birlashmasi,2026-10-03 16:09:55
+677,OSNK,,UZ7048750002,Surxondaryo agrokimyohimoya hududiy aksiyadorlik jamiyati,2026-10-03 16:09:55
+678,OSDT,,UZ7048910002,Sirdaryopaxtasanoat hududiy birlashmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+679,OQDT,,UZ7048940009,Qashqadaryo viloyati Qashqadaryopaxtasanoat hududiy birlashmasi ochiq aksiyadorlik jamiyati,2026-10-03 16:09:55
+680,OFPS,,UZ7048960007,Farg'ona viloyat Paxtasanoat hududiy aksiyadorlik birlashmasi,2026-10-03 16:09:55
+681,OTPS,,UZ7048990004,Toshkentpaxtasanoat hududiy aksiyadorlik birlashmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+682,OSVM,,UZ7049050006,Suvmash aksiyadorlik jamiyati,2026-10-03 16:09:55
+683,OSVMP,,UZ704905K017,Suvmash aksiyadorlik jamiyati,2026-10-03 16:09:55
+684,ONNP,,UZ7049070004,Namanganpaxtasanoat aksiyadorlik jamiyati,2026-10-03 16:09:55
+685,OSAM,,UZ7049110008,Samarqandpaxtasanoat hududiy aksiyadorlik birlashmasi,2026-10-03 16:09:55
+686,OBGP,,UZ7049160003,Aksiyadorlik jamiyati shaklidagi Buxorogips Qo'shma korxonasi,2026-10-03 16:09:55
+691,OQPX,,UZ7049240003,Qorasuv paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+692,OAFM,,UZ7049270000,Ammofos-Maxam aksiyadorlik jamiyati,2026-10-03 16:09:55
+693,OMBR,,UZ7049360009,Mirobod dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+694,OETR,,UZ7049400003,O'zbekenergota'mir aksiyadorlik jamiyati,2026-10-03 16:09:55
+695,OETRP,,UZ704940K014,O'zbekenergota'mir aksiyadorlik jamiyati,2026-10-03 16:09:55
+696,OIEL,,UZ7049730003,Issiqlikelektrloyiha aksiyadorlik jamiyati,2026-10-03 16:09:55
+697,OCSR,,UZ7049820002,Chinobod sanatoriyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+698,OTSR,,UZ7049830001,Turon sanatoriyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+699,OUMB,,UZ7049960006,Urganch markaziy dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+700,DRBK,,UZ7050240009,<Davr-bank> XATB,2026-10-03 13:25:17
+701,OMCQ,,UZ7050440005,Maxam - Chirchiq aksiyadorlik jamiyati,2026-10-03 16:09:55
+702,ONAZ,,UZ7050510005,Navoiyazot aksiyadorlik jamiyati,2026-10-03 16:09:55
+703,OKTL,,UZ7050520004,KORAY TEKSTIL Xorijiy investitsiya ixtirokidagi aksiyadorlik jamiyti,2026-10-03 16:09:55
+704,A050560,,,Buxoro go'sht-sut savdo,2026-10-02 19:58:02
+705,A05056K,,,Buxoro go'sht-sut savdo,2026-10-02 19:58:02
+706,A050670,,,Surxondaryo oziq-ovqat mollari,2026-10-02 19:58:02
+707,OQGS,,UZ7050690005,Qaraqalpaq go'sh-su't sawda aksiyadorlik jamiyati u'lgurji hududiy bazasi,2026-10-03 16:09:55
+714,OKSL,,UZ7051390001,O'zkimyosanoatloyiha aksiyadorlik jamiyati,2026-10-03 16:09:55
+715,OKSLP,,UZ705139K012,O'zkimyosanoatloyiha aksiyadorlik jamiyati,2026-10-03 16:09:55
+723,OSVL,,UZ7051460002,Sovplastital aksiyadorlik jamiyati,2026-10-03 16:09:55
+724,OFET,,UZ7051560009,Farg'ona hududiy elektr tarmoqlari korhonasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+725,OFETP,,UZ705156K016,Farg'ona hududiy elektr tarmoqlari korhonasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+726,OEIG,,UZ7051570008,O'zenergoinjiniring aksiyadorlik jamiyati,2026-10-03 16:09:55
+730,OTYV,,UZ7051740007,Toshkent yo'lovchi vagonlarini qurish va ta'mirlash zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+736,UVGT,,UZ7051840005,<O'ZVAGONTA'MIR> AJ,2026-10-03 13:25:17
+737,OTYL,,UZ7051910006,O'ztemiryo'lyo'lovchi aksiyadorlik jamiyati,2026-10-03 16:09:55
+740,OMKP,,UZ7052350004,Muborak paxta tozalash aksiyadorlik jamiyati,2026-10-03 16:09:55
+741,OTOS,,UZ7052380001,Toshkent - Osiyo aksiyadorlik jamiyati,2026-10-03 16:09:55
+742,BTRL,,UZ7052610001,<Boshtransloyiha> AJ,2026-10-03 13:25:17
+743,OHPS,,UZ7052670005,Hermes petrol systems qo'shma korxonasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+744,OBHE,,UZ7052850003,Buxoro hududiy elektr tarmoqlari korxonasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+745,OBHEP,,UZ705285K013,Buxoro hududiy elektr tarmoqlari korxonasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+748,A052920,,UZ7052920004,Aksiyadorlik jamiyati O'zKoji O'zbekiston-Koreya qo'shma korxonasi,2026-10-03 16:09:55
+749,OMBS,,UZ7053260004,4-sonli Montaj Boshqarmasi aksiyadorlik jamiyati,2026-10-03 16:14:06
+750,OMBSP,,UZ705326K015,4-sonli Montaj Boshqarmasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+753,OXOS,,UZ7053370001,Xorazmsuvqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+756,OEPZ,,UZ7053530000,O'zbekekspertiza aksiyadorlik jamiyati,2026-10-03 16:09:55
+757,OETL,,UZ7053540009,O'zenergota'minlash aksiyadorlik jamiyati,2026-10-03 16:09:55
+758,OETLP,,UZ705354K017,O'zenergota'minlash aksiyadorlik jamiyati,2026-10-03 16:09:55
+759,OSSM,,UZ7053600001,Suvsanoatmash aksiyadorlik jamiyati,2026-10-03 16:09:55
+760,OSSMP,,UZ705360K014,Suvsanoatmash aksiyadorlik jamiyati,2026-10-03 16:09:55
+763,OSKR,,UZ7053820005,Sharg'unko'mir aksiyadorlik jamiyati,2026-10-03 16:09:55
+764,OGMQ,,UZ7053850002,Gidromaxsusqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+765,OGMQP,,UZ705385K011,Gidromaxsusqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+768,OZSL,,UZ7054030000,O'zsuvloyiha aksiyadorlik jamiyati,2026-10-03 16:09:55
+769,ODMH,,UZ7054100001,O'zdonmahsulot aksiyadorlik kompaniyasi,2026-10-03 16:09:55
+770,OGEQ,,UZ7054140007,O'zbekgidroenergoqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+771,OGEQP,,UZ705414K019,O'zbekgidroenergoqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+773,OIIN,,UZ7057490011,INFINITY INSURANCE aksiyadorlik jamiyati,2026-10-03 16:09:55
+774,SOLA,,UZ7057740019,<SOLUTIONS LAB> AJ,2026-10-03 13:25:17
+775,OGON,,UZ7056520016,Aksiyadorlik jamiyat shaklidagi G'azalkent Oyna qo'shma korxonasi,2026-10-03 16:09:55
+776,OHMS,,UZ7056890013,PRESTIGE INSURANCE Aksiyadorlik jamiyati,2026-10-03 16:09:55
+777,OUNP,,UZ7057530014,UNIPOLIS Aksiyadorlik jamiyati sug'urta tashkiloti,2026-10-03 16:09:55
+779,ONVK,,UZ7056000001,Navoiy savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+780,OXUK,,UZ7055860009,Xiva universal savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+781,OMHI,,UZ7057820019,OMAD-HAYOT INSURANCE Aksiyadorlik jamiyati,2026-10-03 16:09:55
+782,OSCX,,UZ7057840017,SUVO'LCHAGICHXIZMATI aksiyadorlik jamiyati,2026-10-03 16:09:55
+783,OAPB,,UZ7057850016,APEX BANK aksiyadorlik jamiyati,2026-10-03 16:09:55
+784,OHBK,,UZ7057860015,HAYOT BANK aksiyadorlik jamiyati,2026-10-03 16:09:55
+785,OYBK,,UZ7057870014,YANGI BANK аrsiyadorlik jamiyati,2026-10-03 16:09:55
+786,ONIC,,UZ7057880013,NEO INSURANCE CORP Aksiyadorlik Jamiyati,2026-10-03 16:09:55
+787,OEHS,,UZ7057900019,ECO HOUSE Aksiyadorlik jamiyati,2026-10-03 16:09:55
+788,OAUX,,UZ7057910018,ELEKTRON ONLINE-AUKSIONLARNI TASHKIL ETISH aksiyadorlik jamiyati,2026-10-03 16:09:55
+789,ONIE,,UZ7057920017,NAVOIY ISSIQLIK ELEKTR STANSIYASI aksiyadorlik jamiyati,2026-10-03 16:09:55
+790,OTIE,,UZ7057930016,TOSHKENT ISSIQLIK ELEKTR STANSIYASI aksiyadorlik jamiyati,2026-10-03 16:09:55
+791,OTIK,,UZ7057970012,TOSHKENT INVEST KOMPANIYASI aksiyadorlik jamiyati,2026-10-03 16:09:55
+792,OKQR,,UZ7057990010,KO'PRIKQURILISH aksiyadorlik jamiyati,2026-10-03 16:09:55
+793,OMKM,,UZ7058000017,MILLIY KLIRING MARKAZI aksiyadorlik jamiyati,2026-10-03 16:09:55
+794,UZIN,,UZ7056920018,<O'zbekinvest> EISK AJ,2026-10-03 13:25:17
+795,UZINP,,UZ7056921008,O'zbekinvest,2026-10-02 20:02:52
+796,FRAZP,,,Farg'onaazot,2026-10-02 19:58:02
+797,OUSW,,UZ7009580000,BEST PIPE AND PARTS aksiyadorlik jamiyati,2026-10-03 16:09:55
+798,OAVS,,UZ7054240005,O'zavtosanoat Aksiyadorlik jamiyati,2026-10-03 16:09:55
+799,OMZU,,UZ7045670005,MIRZO ULUG'BEK ОАЖ ИФ,2026-10-03 16:09:55
+800,OXKS,,UZ7054390008,Xorazm kafolat savdo aksiyadorlik jamiyati,2026-10-03 16:09:55
+801,OEMZ,,UZ7054530009,O'zekspomarkaz Milliy ko'rgazma kompaniyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+802,OYES,,UZ7054630007,Yangi Angren Issiqlik Elektr Stansiyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+803,OSLG,,UZ7054680002,SEAL MAG aksiyadorlik jamiyati,2026-10-03 16:09:55
+805,USMK,,UZ7054910003,QK <Uz-SaeMyung Ko.> AJ,2026-10-03 13:25:17
+806,OIES,,UZ7054940000,Angren issiqlik elektr stansiyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+807,OYSL,,UZ7055000002,Yoshlar teleradiokanali aksiyadorlik jamiyati,2026-10-03 16:09:55
+808,OAFL,,UZ7055050007,AGRO FINANS LIZING aksiyadorlik jamiyati,2026-10-03 16:09:55
+809,OKCH,,UZ7055260002,Kuch aksiyadorlik jamiyati,2026-10-03 16:09:55
+810,OMDR,,UZ7055420002,Marg'ilon shahar Dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+811,OBSZ,,UZ7055450009,Chet el investitsiyasi ishtirokidagi Bektemir-spirt eksperimental zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+812,OALG,,UZ7055590002,Alliance-Leasing aksiyadorlik jamiyati,2026-10-03 16:14:06
+813,XKBK,,UZ7055620007,Xalq Banki,2026-10-03 13:25:17
+814,UZML,,UZ7055630006,<UzMED-lizing> AJ ILK,2026-10-03 13:25:17
+815,OAIS,,UZ7055650004,Agro invest sug'urta aksiyadorlik jamiyati,2026-10-03 16:09:55
+816,OBMZ,,UZ7055660003,Buxoro Markaziy dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+817,OIUS,,UZ7055700007,QUANTUM INSURANCE aksiyadorlik jamiyati,2026-10-03 16:09:55
+818,OUMP,,UZ7055760001,UzAuto Motors Powertrain aksiyadorlik jamiyati,2026-10-03 16:09:55
+819,OGDB,,UZ7055770000,Gurlan dehqon bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+820,ALMZ,,,Angren logistika Markazi,2026-10-02 19:58:02
+821,OALB,,UZ7055790008,Asia Alliance Bank aksiyadorlik tijorat banki,2026-10-03 16:09:55
+822,OHTB,,UZ7055830002,HI-TECH BANK xususiy aksiyadorlik tijorat banki,2026-10-03 16:09:55
+823,OJAZ,,UZ7055840001,Jizzax akkumulyator zavodi aksiyadorlik jamiyati,2026-10-03 16:09:55
+824,ORFI,,UZ7055870008,<Orient Finans> XATB,2026-10-03 13:25:17
+825,ORFIP,,,Orient Finans,2026-10-02 19:58:02
+826,OMID,,UZ7055880007,Markaziy Ippodrom aksiyadorlik jamiyati,2026-10-03 16:09:55
+827,OTUJ,,UZ7055890006,ToshuyjoyLITI aksiyadorlik jamiyati,2026-10-03 16:09:55
+828,OBTK,,UZ7055980005,Beshariq Turon sanoat savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+829,OMFS,,UZ7055990004,Marg'ilon Fayz savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+830,OTST,,UZ7056050006,Toshshahartransxizmat aksiyadorlik jamiyati,2026-10-03 16:09:55
+831,ORSK,,UZ7056060005,Quva tumani Rasta savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+832,OMSM,,UZ7056080003,O'zmaxsusmontajqurilish aksiyadorlik kompaniyasi,2026-10-03 16:09:55
+833,OQML,,UZ7056130006,Aksiyadorlik jamiyati shaklidagi Qurilishmashlizing Respublika ihtisoslashtirilgan lizing kompaniyasi,2026-10-03 16:09:55
+834,OFQX,,UZ7056180001,Farg'ona qishloq ho'jalik mahsulotlari ulgurji bozori aksiyadorlik jamiyati,2026-10-03 16:09:55
+835,OLCZ,,UZ7056190000,Olchazor aziya aksiyadorlik jamiyati,2026-10-03 16:09:55
+836,OPXS,,UZ7056210006,O'zpaxtasanoat aksiyadorlik jamiyati,2026-10-03 16:09:55
+837,OXJS,,UZ7056250002,Xo'jai jahon savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+838,OIFT,,UZ7056260001,Ipakchi fayz tong savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+839,OBOQ,,UZ7056270000,O'zbekoziqovqatxolding xolding kompaniyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+840,ODKG,,UZ7056280009,Deutsche konstruktion group aksiyadorlik jamiyati,2026-10-03 16:09:55
+841,OTRD,,UZ7056300005,Uztrade aksiyadorlik jamiyati.,2026-10-03 16:09:55
+842,OAGE,,UZ7056310004,O'zagroeksport aksiyadorlik jamiyati,2026-10-03 16:09:55
+843,OAGH,,UZ7056370016,O'zagrokimyohimoya aksiyadorlik jamiyati,2026-10-03 16:09:55
+844,OGSR,,UZ7056380015,O'zagroservis aksiyadorlik jamiyati,2026-10-03 16:09:55
+846,OMIB,,UZ7056430018,Madad Invest Bank aksiyadorlik tijorat banki,2026-10-03 16:09:55
+847,OBGE,,UZ7056450016,O'zbekgidroenergo aksiyadorlik jamiyati,2026-10-03 16:09:55
+848,A056460,,UZ7056460015,ENERGIYA TEJASH MILLIY KOMPANIYASI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+849,OAVB,,UZ7056470014,AVO bank aksiyadorlik jamiyati,2026-10-03 16:09:55
+850,OSMQ,,UZ7056560012,SAMARQAND ochik aksiyadorlik jamiyat banki,2026-10-03 16:09:55
+851,OBSD,,UZ7056640012,Marg'ilon baraka savdo savdo kompleksi aksiyadorlik jamiyati,2026-10-03 16:09:55
+852,OPXB,,UZ7056650011,POYTAXT BANK aksiyadorlik jamiyati,2026-10-03 16:09:55
+853,OTRT,,UZ7056690017,TREST-12 aksiyadorlik jamiyati,2026-10-03 16:09:55
+854,OMET,,UZ7056700014,O'zbekiston milliy elektr tarmoqlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+855,TGBK,,UZ7056730011,<Tenge Bank> ATB,2026-10-03 13:25:17
+856,ONED,,UZ7056750019,NAVOIY ERKIN IQTISODIY ZONA DIREKSIYASI aksiyadorlik jamiyati,2026-10-03 16:09:55
+857,OUAS,,UZ7056760018,Uzbekistan Airports AJ,2026-10-03 16:09:55
+858,OUAW,,UZ7056770017,Uzbekistan Airways aksiyadorlik jamiyati,2026-10-03 16:09:55
+859,OSFT,,UZ7056790015,Aksiyadorlik jamiyat shaklidagi SAMFRUIT xorijiy korxonasi,2026-10-03 16:09:55
+860,OTIS,,UZ7056800012,Talimarjon issiqlik elektr stansiyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+861,OSVQ,,UZ7056810011,O'zsuvqurilish aksiyadorlik jamiyati,2026-10-03 16:09:55
+862,OGGI,,UZ7056830019,Grapes and gardens investment aksiyadorlik jamiyati,2026-10-03 16:09:55
+863,OTBC,,UZ7056850017,TBC Bank Aksiyadorlik tijorat banki,2026-10-03 16:09:55
+864,OSVT,,UZ7056860016,O'ZSUVTA'MINOT Aksiyadorlik jamiyati,2026-10-03 16:09:55
+865,ONBU,,UZ7056870015,NBU INVEST GROUP aksiyadorlik jamiyati,2026-10-03 16:09:55
+866,OHGT,,UZ7056900010,Hududgazta'minot AJ,2026-10-03 16:09:55
+867,OXDB,,UZ7056910019,XIVA DEHQON BOZORI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+868,OANBP,,UZ7056930017,ANOR BANK Aksiyadorlik jamiyati,2026-10-03 16:09:55
+869,OZAT,,UZ7056940016,UzAssets Aksiyadorlik jamiyati shaklidagi investitsiya kompaniyasi,2026-10-03 16:09:55
+870,OYQS,,UZ7057000018,YO'LQURILISH aksiyadorlik jamiyati,2026-10-03 16:09:55
+871,OALI,,UZ7057050013,APEX LIFE INSURANCE Aksiyadorlik jamiyati,2026-10-03 16:09:55
+872,OUDT,,UZ7057060012,URGANCH DIAMOND MIKROMOLIYA TASHKILOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+874,OELI,,UZ7057140012,EUROASIA LIFE INSURANCE aksiyadorlik jamiyati,2026-10-03 16:09:55
+875,A057150,,,Toshkent Index ETF,2026-10-02 19:58:02
+876,OINS,,UZ7057160010,IMPEX-INSURANCE Aksiyadorlik jamiyati Sug'urta trashkiloti,2026-10-03 16:09:55
+877,OAHS,,UZ7057190017,AGROS HAYOT sug'urta kompaniyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+878,OIOG,,UZ7057200014,INDO ORGANICS Aksiyadorlik jamiyati Qo'shma korxonasi,2026-10-03 16:09:55
+879,OUZM,,UZ7057210013,UZUM BANK aksiyadorlik jamiyati,2026-10-03 16:09:55
+880,OKHI,,UZ7057230011,Kafolat Hayot Insurance aksiyadorlik jamiyati,2026-10-03 16:09:55
+881,OGIG,,UZ7057240010,GLOBAL INSURANCE GROUP sug'urta tashkiloti aksiyadorlik jamiyati,2026-10-03 16:09:55
+882,OSQB,,UZ7057250019,SQB Insurance sug'urta kompaniyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+883,OGSK,,UZ7057260018,Gross sug'urta kompaniyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+884,OEIN,,UZ7057270017,EUROASIA INSURANCE aksiyadorlik jamiyati qo'shma korxona,2026-10-03 16:09:55
+885,A057280,,,New Life sug'urta kompaniyasi,2026-10-02 19:58:02
+886,OAPX,,UZ7057290015,APEX INSURANCE Aksiyadorlik jamiyati,2026-10-03 16:09:55
+887,AISK,,UZ7057300012,<ASIA INSURANCE SUG'URTA KOMPANIYASI> AJ,2026-10-03 13:25:17
+888,OALN,,UZ7057310011,ALFA LIFE INSURANCE aksiyadorlik jamiyati,2026-10-03 16:09:55
+889,OMIN,,UZ7057330019,MY-INSURANCE Aksiyadorlik jamiyati sug'urta tashkiloti,2026-10-03 16:09:55
+890,OAIK,,UZ7057340018,ALFA INVEST sug'urta konpaniyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+891,ODGI,,UZ7057350017,DD GENERAL INSURANCE Aksiyadorlik jamiyati Sug'urta tashkiloti,2026-10-03 16:09:55
+892,OISK,,UZ7057360016,ISHONCH SUG'URTA KOMPANIYASI aksiyadorlik jamiyati qo'chma korxonasi,2026-10-03 16:09:55
+893,OHKS,,UZ7057370015,HAMKOR SUG'URTA aksiyadorlik jamiyati,2026-10-03 16:09:55
+894,A057380,,UZ7057380014,SHARQ-SUG'URTA Aksiyadorlik jamiyati,2026-10-03 16:09:55
+895,OIMS,,UZ7057390013,IMKON-SUG'URTA Aksiyadorlik jamiyati,2026-10-03 16:09:55
+896,OKFS,,UZ7057400010,KAFIL-SUG'URTA aksiyadorlik jamiyati,2026-10-03 16:09:55
+897,OSGI,,UZ7057410019,SEMURG INSURANCEAksiyadorlik Jamiyati,2026-10-03 16:09:55
+898,INSN,,UZ7057420018,<INSON> ST AJ,2026-10-03 13:25:17
+899,A057430,,UZ7057430017,ASKO-VOSTOK Aksiyadorlik jamiyati qo’shma korxona sug’urta tashkiloti,2026-10-03 16:09:55
+900,ARST,,UZ7057440016,<ARIA SUG'URTA TASHKILOTI> AJ,2026-10-03 13:25:17
+901,OMAD,,UZ7057450015,OMAD SUG'URTA Aksiyadorlik jamiyati,2026-10-03 16:09:55
+902,OTRI,,UZ7057460014,TRUST-INSURANCE Aksiyadorlik jamiyati,2026-10-03 16:09:55
+903,OZIN,,UZ7057470013,O'zbekinvest Hayot sug'urta kompaniyasi aksiyadorlik jamiyati,2026-10-03 16:09:55
+904,TMYS,,UZ7057480012,<TEMIRYO'L-SUG'URTA> AJ,2026-10-03 13:25:17
+905,OXSG,,UZ7057500017,XALQ SUG'URTA aksiyadorlik jamiyati,2026-10-03 16:09:55
+906,OFSG,,UZ7057510016,FAROVON SUG'URTA Aksiyadorlik Jamiyati,2026-10-03 16:09:55
+907,OFIN,,UZ7057540013,FORTUNA INSURANCE Aksiyadorlik jamiyati Sug'urta tashkiloti,2026-10-03 16:09:55
+908,OGQR,,UZ7057550012,O'ZBEK GEOLOGIYA QIDIRUV aksiyadorlik jamiyati,2026-10-03 16:09:55
+909,A057570,,UZ7057570010,HPC Development and InvestmentAksiyadorlik jamiyati Xorijiy Korxona,2026-10-03 16:09:55
+910,OMQI,,UZ7057590018,MAQSAD INVEST AKSIYADORLIK JAMIYATI,2026-10-03 16:09:55
+911,A057600,,,KOSATKA FINTECH INVEST,2026-10-02 19:58:02
+912,A057670,,UZ7057670018,ANDIJON VILOYAT PFK aksiyadorlik jamiyati,2026-10-03 16:09:55
+913,OGTD,,UZ7057690016,UZGASTRADE aksiyadorlik jamiyati,2026-10-03 16:09:55
+914,OSBK,,UZ7057790014,OPEN BANK aksiyadorlikjamiyati,2026-10-03 16:09:55
+915,OZFI,,UZ7057800011,ZAMIN FINANCE INSURANCE aksiyadorlik jamiyati,2026-10-03 16:09:55
+916,BFMT3V2,,,Biznes Finance,2026-10-02 19:58:02
+917,IFMT4,,UZ6056967AD5,IMKON FINANS,2026-10-02 20:02:52
+919,OJST,,UZ7058160019,JIZZAX SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+920,OIAD,,UZ7058010016,IMPEX ASSISTANCE AD aksiyadorlik jamiyati,2026-10-03 16:09:55
+921,OTYT,,UZ7058040013,O'ZTEMIRYO'LMASHTA'MIR aksiyadorlik jamiyati,2026-10-03 16:09:55
+922,OQMZ,,UZ7058050012,QUYUV-MEXANIKA ZAVODI aksiyadorlik jamiyati,2026-10-03 16:09:55
+923,ANMZ,,UZ7058806001,ANDIJON MEXANIKA ZAVODI aksiyadorlik jamiyati,2026-10-03 16:09:55
+924,OMST,,UZ7058090018,MUSAFFO OBI HAYOT MAGISTRAL SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+925,ODST,,UZ7058100015,DAMXO'JA MAGISTRAL SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+926,OCST,,UZ7058110014,CHIMGAN-CHORBOG' MAGISTRAL SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+927,OTYE,,UZ7058120013,TEMIRYOLEKSPRESS aksiyadorlik jamiyati,2026-10-03 16:09:55
+928,OTIT,,UZ7058130012,TEMIRYOLINFRATUZILMA aksiyadorlik jamiyati,2026-10-03 16:09:55
+929,OTYK,,UZ7058140011,TEMIRYO'LKARGO Aksiyadorlik jamiyati,2026-10-03 16:09:55
+930,OFST,,UZ7058150010,FARG'ONA SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+931,OSST,,UZ7058170018,SURXONDARYO SUV TA'MINOTU Aksiyadorlik jamiyati,2026-10-03 16:09:55
+932,OTSS,,UZ7058180017,TOSHKENT SHAHAR SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+933,OTVS,,UZ7058190016,TOSHKENT VILOYATI SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+934,OQST,,UZ7058200013,QARAQALPAQ SUW TA'MIYNAT Aksiyadorlik jamiyati,2026-10-03 16:09:55
+935,ONST,,UZ7058210012,NAMANGAN SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+936,OSDS,,UZ7058220011,SIRDARYO SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+937,OXST,,UZ7058230010,XORAZM SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+938,OBST,,UZ7058240019,BUXORO SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+939,OQDS,,UZ7058250018,QASHQADARYO SUV TA'MINOTI aksiyadorlik jamiyati,2026-10-03 16:09:55
+940,OAST,,UZ7058260017,ANDIJON SUV TA'MINOTI aksiyadorlik jamiyati,2026-10-03 16:09:55
+941,ONVS,,UZ7058270016,NAVOIY SUV TA'MINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+942,OSQS,,UZ7058280015,SAMARQAND SUV TAMINOTI Aksiyadorlik jamiyati,2026-10-03 16:09:55
+943,OXXT,,UZ7058290014,HAYOT BIRJA aksiyadorlik jamiyati,2026-10-03 16:09:55
+944,OAVA,,UZ7058300011,AVTOVARIANT Aksiyadorlik jamiyati,2026-10-03 16:09:55
+945,OIUG,,UZ7058310010,IT UNISOFT GROUP Aksiyadorlik jamiyati,2026-10-03 16:09:55
+946,OGLS,,UZ7058320019,GLOBAL SOLUTIONS Aksiyadorlik jamiyati,2026-10-03 16:09:55
+947,OPWY,,UZ7058330018,PAY-WAY aksiyadorlik jamiyati,2026-10-03 16:09:55
+948,OBRG,,UZ7058340017,BRIO GROUP Aksiyadorlik jamiyati,2026-10-03 16:09:55
+949,OMPT,,UZ7058380013,MARKETPLACE TRADING aksiyadorlik jamiyati,2026-10-03 16:09:55
+951,OAFT,,UZ7058400019,ALIF TECH Aksiyadorlik jamiyati,2026-10-03 16:09:55
+952,OSRK,,UZ7058410018,SAVDONI RIVOJLANTIRISH KOMPANIYASI aksiyadorlik jamiyati,2026-10-03 16:09:55
+953,OFTG,,UZ7058420017,FUTURE OPEN TECHNOLOGY GROUP aksiyadorlik jamiyati,2026-10-03 16:09:55
+954,OQPS,,UZ7058430016,QUICK PAYMENTS SOLUTION aksiyadorlik jamiyati,2026-10-03 16:09:55
+955,OTDI,,UZ7058440015,TAD INDUSTRIES aksiyadorlik jamiyati,2026-10-03 16:09:55
+956,ONIP,,UZ7058470012,NATIONAL INNOVATIVE PAYMENT TECHNOLOGIES aksiyadorlik jamiyati,2026-10-03 16:09:55
+957,OSMP,,UZ7058480011,SMART MARKETPLASE aksiyadorlik jamiyati,2026-10-03 16:09:55
+958,PLTG,,UZ7058490010,<PLUM TECHNOLOGIES> AJ,2026-10-03 13:25:17
+959,OMQD,,UZ7058500016,MAROQAND Aksiyadorlik jamiyati,2026-10-03 16:09:55
+960,OCEP,,UZ7058510015,CS EXPRESS PAY Aksiyadorlik jamiyati,2026-10-03 16:09:55
+961,OZPT,,UZ7058520014,ZPLAT aksiyadorlik jamiyati,2026-10-03 16:09:55
+962,OPME,,UZ7058540012,PAYME aksiyadorlik jamiyati,2026-10-03 16:09:55
+963,CLIK,,UZ7058550011,<CLICK> AJ,2026-10-03 13:25:17
+964,ONPY,,UZ7058560010,NATIONALPAY aksiyadorlik jamiyati,2026-10-03 16:09:55
+965,OTPY,,UZ7058570019,TEZPAY aksiyadorlik jamiyati,2026-10-03 16:09:55
+966,OAPY,,UZ7058580018,ALTAPAY aksiyadorlik jamiyati,2026-10-03 16:09:55
+967,OPYN,,UZ7058590017,PAYNET aksiyadorlik jamiyati,2026-10-03 16:09:55
+968,OMCP,,UZ7058600014,MULTICARD PAYMENT aksiyadorlik jamiyati,2026-10-03 16:09:55
+969,OCRP,,UZ7058620012,CROSS PAY aksiyadorlik jamiyati,2026-10-03 16:09:55
+970,OHETP,,UZ7056671009,Hududiy elektr tarmoqlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+971,BFMT3V3,,UZ6057687AC0,Biznes Finance,2026-10-02 20:02:52
+972,FRAZ,,UZ7054350002,<Farg'onaazot> AJ,2026-10-03 13:25:17
+973,TBC2B2,,,TBC Bank,2026-10-02 19:58:02
+974,DMMT2B,,UZ6058027AB0,DELTA,2026-10-02 20:02:52
+976,INFB,,UZ7055560005,<InFinBank> AJ,2026-10-03 13:25:17
+977,INFBP,,,Invest Finance Bank,2026-10-02 19:58:02
+980,DMMT2B3,,UZ6058027AC8,DELTA,2026-10-03 05:23:49
+981,CTFB3,,UZ6059057AA8,CONTACT FINANCE,2026-10-03 05:24:24
+982,DMMT2B4,,UZ6058027AD6,DELTA,2026-10-03 05:23:37
+983,BFMT3V4,,UZ6057687AD8,Biznes Finance,2026-10-03 05:17:26
+984,ACMT1B3,,UZ6058977AC4,AGAT,2026-10-02 20:02:52
+986,ACMT2B4,,UZ6058977AD2,AGAT,2026-10-02 20:02:52
+988,ONMK,,UZ7057810010,NAVOIY KON-METALLURGIYA KOMBINATI aksiyadorlik jamiyati,2026-10-03 16:09:55
+989,BFMT2B5,,UZ6057687AE6,Biznes Finance,2026-10-02 20:02:52
+990,ASAK4B5,,,Asakabank,2026-10-02 19:58:02
+991,CTFB3B2,,UZ6059057AB6,CONTACT FINANCE,2026-10-02 20:02:52
+992,OHET,,UZ7056670019,Hududiy elektr tarmoqlari aksiyadorlik jamiyati,2026-10-03 16:09:55
+993,UZUMN2B2,,,UZUM BANK,2026-10-02 19:58:02
+994,MKLS3B2,,,MK-LEASING,2026-10-02 19:58:02
+995,IQMK5B8,,,O`zbekiston ipotekani qayta moliyalashtirish kompaniyasi,2026-10-02 19:58:02
+996,OOSN,,UZ7059140010,OLSON aksiyadorlik jamiyati,2026-10-03 16:09:55
+997,UZNF,,UZ7058980010,<UzMIJ> AJ,2026-10-03 13:25:17
+998,ANBK3B,,UZ6056934AA1,ANOR BANK,2026-10-03 05:23:37
+999,RLSG,,UZ7059260016,<REGAL STAY GRAND> AJ,2026-10-03 13:25:17
+1000,ACMT2B5,,RU305P1079T5,AGAT CREDIT aksiyadorlik jamiyati mikromoliya tashkiloti,2026-10-03 16:09:55
+1001,HMMT4B2,,,HAMROH MMT,2026-10-02 19:58:02
+1003,UZUMS3B2,,UZ6059287AB9,UZUM SARMOYA MChJ XK,2026-10-02 20:06:11
+1004,IQMK9B10,,UZ6056887AJ2,O'zIQMK AJ,2026-10-03 05:17:33
+1005,UZUMS3B,,UZ6059287AA1,UZUM SARMOYA MChJ XK (1-emissiya),2026-10-03 05:23:04
+1006,AAB1B3U,,UZ6055797AA3,Asia Alliance Bank ATB,2026-10-03 05:23:04
+1012,XXXX4,,UZXXXXXXXXX4,<BIZNES FINANS MIKROMOLIYA TASHKILOTI> MChJ,2026-10-03 13:25:17
+1013,IMKF3,,UZ7056960014,<IMKON FINANS MIKROMOLIYA TASHKILOTI> AJ,2026-10-03 13:25:17
+1014,OACM,,UZ7058970011,AGAT CREDIT aksiyadorlik jamiyati mikromoliya tashkiloti,2026-10-03 16:09:55
+1015,XXXX6,,UZXXXXXXXXX6,<DELTA MMT> MChJ,2026-10-03 13:25:17
+1016,XXXX7,,UZXXXXXXXXX7,<MAKESENSE> MChJ XK,2026-10-03 13:25:17
+1017,XXXX8,,UZXXXXXXXXX8,<CONTACT FINANSE> MChJ MMT,2026-10-03 13:25:17
+1018,XXXX9,,UZXXXXXXXXX9,<M K LEASING> MChJ XK,2026-10-03 13:25:17
+1020,XXX10,,UZXXXXXXXX10,<UZUM SARMOYA> MChJ XK,2026-10-03 13:25:17
+1021,XXX11,,UZXXXXXXXX11,<HAMROH MIKROMOLIYA TASHKILOTI> MChJ,2026-10-03 13:25:17
+1022,IQMK,,UZ7056880014,<O'zIQMK> AJ,2026-10-03 13:25:17
+1038,UZ7058790013,,UZ7058790013,O'ZBEKISTON TEXNOLOGIK METALLAR KOMBINATI aksiyadorlik jamiyati,2026-10-03 13:25:22
+1039,UZASP,,UZ704557K016,O'zagrosug'urta aksiyadorlik jamiyati,2026-10-03 13:25:22
+1056,YGSY,,UZ7027990009,Yuggazstroy aksiyadorlik jamiyati,2026-10-03 13:25:22
+1059,NGQT,,UZ7019130002,Neftgazqurilishta'mir aksiyadorlik jamiyati,2026-10-03 13:25:22
+1077,KAPA_1077,,UZ7021330004,Kasbi paxta tozalash aksiyadorlik jamiyati,2026-10-04 09:49:37
+1078,QIPA_1078,,UZ7024680009,Qiziltepa paxta tozalash aksiyadorlik jamiyati,2026-10-04 09:49:37
+1079,XOPA_1079,,UZ7025360007,Xo'jaobod paxta tozalash aksiyadorlik jamiyati,2026-10-04 09:49:37
+1080,ELAK_1080,,UZ7006830002,Elsis-savdo aksiyadorlik jamiyati,2026-10-04 09:49:37
+1082,DOVA_1082,,UZ7043540002,DONOLIK VA KELAJAK aksiyadorlik jamiyati investisiya fondi,2026-10-04 09:49:37
+1083,IMFI_1083,,UZ6056967AB9,IMKON FINANS mikrokredit tashkiloti aksiyadorlik jamiyati,2026-10-04 09:49:37
+1084,TOYO_1084,,UZ701620K015,Toshkent yog'-moy kombinati aksiyadorlik jamiyati,2026-10-04 09:49:37
+1085,SHAK_1085,,UZ7019690005,Shohrud aksiyadorlik jamiyati,2026-10-04 09:49:37
+1086,TOYO_1086,,UZ7016200006,Toshkent yog'-moy kombinati aksiyadorlik jamiyati,2026-10-04 09:49:37
+1087,BUGO_1087,,UZ705056K018,Buxoro go'sht-sut savdo aksiyadorlik jamiyati ulgurji hududiy baza,2026-10-04 09:49:37
+1088,DOPA_1088,,UZ7028850004,Do'stlik paxta tozalash aksiyadorlik jamiyati,2026-10-04 09:49:37
+1089,OZTA_1089,,UZ7007820002,O'zinterimpeks Tashqi savdo kompaniyasi aksiyadorlik jamiyati,2026-10-04 09:49:37
+1090,DEAK_1090,,UZ7058680016,DEVHUB Aksiyadorlik jamiyati,2026-10-04 09:49:37
+1091,TOTO_1091,,UZ7058780014,TOSHKENT TOVAR XOMASHYO BIRJASI aksiyadorlik jamiyati,2026-10-04 09:49:37
+1092,PAAK_1092,,UZ7058840016,PAYPOINT aksiyadorlik jamiyati,2026-10-04 09:49:37
+1093,TBDI_1093,,UZ7058950013,TBC DIGITAL aksiyadorlik jamiyati,2026-10-04 09:49:37
+1094,REKO_1094,,UZ7056170002,Respublika ko'p tarmoqli agrosanoat birjasi aksiyadorlik jamiyati,2026-10-04 09:49:37
+1095,TEAK_1095,,UZ7024890004,Texnolog aksiyadorlik jamiyati,2026-10-04 09:49:37
+1096,OCAK_1096,,UZ7058740018,OCTAGRAM aksiyadorlik jamiyati,2026-10-04 09:49:37
+1097,ISEL_1097,,UZ7056661000,Issiqlik elektr stansiyalari aksiyadorlik jamiyati,2026-10-04 09:49:37
+1098,WHAK_1098,,UZ7058880012,WHIRL aksiyadorlik jamiyati,2026-10-04 09:49:37
+1099,XOPA_1099,,UZ7058810019,XONSAROY PAYMENTS aksiyadorlik jamiyati,2026-10-04 09:49:37
+1100,TBSU_1100,,UZ7058690015,TBC SUG'URTA aksiyadorlik jamiyati,2026-10-04 09:49:37
+1101,RABI_1101,,UZ7058800010,RAQAMLI BIZNES AGREGATOR aksiyadorlik jamiyati,2026-10-04 09:49:37
+1102,SABR_1102,,UZ7059080018,SAXOVAT BROYLER aksiyadorlik jamiyati,2026-10-04 09:49:37
+1103,AKJA_1103,,UZ7018070001,Aksiyadorlik jamiyat shaklidagi Andijonkabel o'zbek-rossiya qo'shma korxonasi,2026-10-04 09:49:37
+1104,SEIN_1104,,UZ7042600005,SEMURG Investitsiya fondi aksiyadorlik jamiyati,2026-10-04 09:49:37
+1105,HAMI_1105,,UZ6058537AA0,HAMROH MIKROMOLIYA TASHKILOTI mas'uliyati cheklangan jamiyati,2026-10-04 09:49:37
+1106,OCAK_1106,,UZ7059020014,OCTOPAY aksiyadorlik jamiyati,2026-10-04 09:49:37
+1107,OCAK_1107,,UZ7059180016,OCTO aksiyadorlik jamiyati,2026-10-04 09:49:37
+1108,MEAK_1108,,UZ7059240018,MEHR-SAODAT aksiyadorlik Jamiyati,2026-10-04 09:49:37
+1109,PAAK_1109,,UZ7058710011,PARAPAY aksiyadorlik jamiyati,2026-10-04 09:49:37
+1110,PAPA_1110,,UZ7028870002,Paxtakor paxta tozalash aksiyadorlik jamiyati,2026-10-04 09:49:37
+1111,ISAK_1111,,UZ7059270015,ISSIQLIKTA'MINOTI aksiyadorlik jamiyati,2026-10-04 09:49:37
+1112,TAMI_1112,,UZ7058750017,TAYANCH MIKROMOLIYABANKI aksiyadorlik jamiyati,2026-10-04 09:49:37
+1113,UMSP_1113,,UZ6059360AA6,UMRC SPV mas'uliyati cheklangan jamiyati,2026-10-04 09:49:37
+1114,UMSP_1114,,UZ6059364AA8,UMRC SPV mas'uliyati cheklangan jamiyati,2026-10-04 09:49:37
+1115,REMI_1115,,UZ7058940014,RENESANS MIKROMOLIYA TASHKILOTI aksiyadorlik jamiyati,2026-10-04 09:49:37
+1116,UMSP_1116,,UZ6059367AA1,UMRC SPV mas'uliyati cheklangan jamiyati,2026-10-04 09:49:37
+1117,UMSP_1117,,UZ6059364AB6,UMRC SPV mas'uliyati cheklangan jamiyati,2026-10-04 09:49:37
+1118,UMSP_1118,,UZ6059367AB9,UMRC SPV mas'uliyati cheklangan jamiyati,2026-10-04 09:49:37
+1119,CHQI_1119,,UZ7056150004,Chirchiq qishloq xo'jaligi texnikasi zavodi aksiyadorlik jamiyati,2026-10-04 09:49:37
+1120,DOXU_1120,,UZ7045720008,DO'STLIK xususiylashtirish investitiya fondi aksiyadorlik jamiyati,2026-10-04 09:49:37
+1121,TAAK_1121,,UZ7006050007,Taminotchi-Paxta aksiyadorlik jamiyati,2026-10-04 09:49:37
+1122,UNVB1B2U,,UZ6046917AA9,,2026-10-05 19:26:58
+1123,ACMT2B1U,,UZ6058977AF7,Akfa Aluminium MChJ obligatsiyasi,2026-10-08 19:39:27
+1124,UASH3B1U,,UZ6059497AA6,Universal Auto Sharq MChJ obligatsiyasi,2026-10-08 19:39:27
